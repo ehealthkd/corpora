@@ -1,0 +1,50 @@
+The off-diagonal numbers are genes that have differential expression in two viruses 560 compared to mock and the third virus, but are not significantly different from each other
+Although sample availability was not a limiting factor for these two specimens, both proved reluctant to spread over the holes of cryoEM grids
+The killer virus is a satellite RNA of L-A and is totally dependent on 231 L-A proteins for replication
+A short homopolymeric stretch of 5' adenosine nucleotides thus might destabilize eIF4E binding to the mRNA cap
+Thus, the C-terminal domain of XP is involved in membrane permeabilization and harbours key features of a viroporin
+However, the N-terminal regions of S proteins display noteworthy differences
+In addition to EVC and EVC2, we identified two paralogs, EVC3.1 and EVC3.2 323 , in the choanoflagellate, sea anenome and sea urchin ciliomes
+Particularly, the influenza data seems considerably more affected by the smaller look-back windows
+These relatively small changes in the subunit structures translate into larger shifts in the hexamer
+Nearly half of patients showed increased levels of LDH, while one-third of patients suffered liver injury and decreased levels of prealbumin
+Previous studies have suggested that the 265 mobility reduction could not effectively lower the incidence rate while 50% transmissibility 266 reduction could easily prevent the epidemics from further spreading
+Our previous researches show that CD147 plays a functional role in facilitating SARS-CoV invasion for host cells, and CD147-antagonistic peptide-9 has a high binding rate to HEK293 cells and an inhibitory effect on SARS-CoV
+Since the 2019-nCoV genome exhibits substantial similarity to the 2002 SARS-CoV genome and proteome , we hypothesize that many of the interactions observed in the SARS proteome are expected to be preserved in the 2019-nCoV proteome as well, unless the corresponding binding sites were affected
+It was reported that convalescent plasma treatment reduced the hospital stay and mortality in patients with SARS-CoV infection and severe influenza A (H1N1)
+In our 2019-nCoV 3D model, we found that 2019-nCoV was highly similar to the receptor-binding domain (RBD) domain of SARS-CoV
+We speculated that if any common respiratory pathogen, such as influenza and parainfluenza viruses, RSV, ADV, MP and CP, or the previous emerging novel coronaviruses including SARS-CoV and MERS-CoV, was isolated from body fluids and secretions of the infected patients, related treatment and management could have been implemented in the first place
+In the S protein of the SARS-CoV, a small domain containing residues 306-575 was identified to be the receptor binding domain (RBD), in which residues 424-494 known as the receptor binding motif (RBM) directly mediate the interaction with ACE2
+Phylogenetic studies have shown that 2019-nCoV and SARS-CoV belong to the subgenus Sarbecovirus, but they are distantly related 5-8 , with a sequence identity of 79.6% at the whole-genome level 5
+However, SARS-CoV, using the same receptor, was not detected in skeletal muscle by post-mortem examination
+In conclusion, SARS-Cov is the closest related virus to 2019-nCoV for which a significant number of epitopes has been defined in humans (and other species), and that also causes human disease with lethal outcomes
+The confirmation delay does not affect the infecting process, but brings a direct hinder in inspecting the real number of confirmed cases
+MSIR model predicts a earlier and higher infectious peak position than MSEIR model
+Consistent with a role of DUSP1 in the dephosphorylation of JNK and p38, we observed a marked increase of JNK and p38 phosphorylation in the absence of DUSP1 during SeV and RSV infection
+Phage-mediated horizontal gene transfer events are responsible for the spread of novel functions including the development of pathogenicity in bacterial strains such as Escherichia coli, Vibrio cholerae, Streptococcus pyogenes and many Staphylococcus aureus strains
+The sequence identity between the 3CL proteases of SARS-CoV and 2019-nCoV is 96.08%
+Taken together with our receptor assay results, it may be possible that 2019-nCoV arose from recombination between clade 1 and the other clades
+In contrast, concentrated sugar is relative rare in wild niches and competition for it is fierce, with concentrations unlikely to often exceed the 0.5% threshold at which sugar fermentation kicks in
+Killer toxin encoded by pGKL plasmids is translated by the cap-independent pathway
+Comparing with SARS-CoV and MERS, 2019-nCoV seems to be more readily transmitted from human to human, spreading to multiple countries and regions and leading to the WHO declaration of a Public Health Emergency of International Concern
+SARS-CoV was previously shown to depend on both extracellular and intracellular Ca 2+ pools for successful infection, and it is believed that this dependency is due to Ca 2+ interactions with the SARS-CoV FP
+Regarding the respiratory hygiene measures, facemask wearing is considered as one of the most cost-effective and important measures to prevent the transmission of SARS-CoV-2, but it became a social concern due to the recent global facemask shortage
+Our study also shows that the activation of the interferon-MAPK signaling pathway and TCR-and BCRproduced antibodies play key roles in combating SARS-CoV-2 infection
+It is widespread opinion in the scientific community that current official data on the diffusion of SARS-CoV-2, responsible of the correlated disease, COIVD-19, among population, are likely to suffer from a strong downward bias
+The antibodies to SARS-CoV-2 are specific, sensitive, and more importantly, their detection can be much faster and simpler than RT-PCR, which allows rapid screening of suspect cases to be possible
+SARS-CoV-2 is a coronavirus with positive-sense, singlestranded RNA about 30kb in length
+Overall, all the modeled S proteins shared a similar folding pattern in comparison to SARS-CoV S and both, S1 and S2 domains showed a uniform organization
+In summary, though no evidence was found in this study that SARS-CoV-2 can be transmitted by vaginal sex from female to the partner
+The co-crystal structure of SARS-CoV NSP7 and NSP8 demonstrated that the NSP8 C-terminal head domain folds around the NSP7 helical bundle
+Additionally, the available experimental data of SARS-CoV protease inhibitors can be used as the training set to generate new inhibitors of 2019-nCoV protease
+Using the same mathematical model described above, we estimated that our specific SARS-CoV-2-designed panel can detect 1.15 copies of the virus at 95% probability
+In conclusion, the use of available information related to SARS-CoV epitopes in conjunction with bionformatic predictions points to specific regions of 2019-nCoV which have a high likelihood of being recognized by human immune responses
+Analysis of allele 60 effects revealed that the founder PWK/PhJ was the main driver of low SARS-CoV titer in the lung
+Superposition of the elongation complexes of poliovirus 23 and norovirus 24 onto the SARS-CoV NSP12 reveals the path of the RNA past the active site and indicates amino acids involved in binding or catalysis
+SARS-CoV virus-like particles (VLPs) formation has been reported to depend upon either M and E proteins or M and N proteins
+Our analyses showed that rapid diagnosis and isolation of infections based on COVID-19 disease alone cannot control outbreaks of SARS-CoV-2, but that the addition of tracing and isolation of traced cases could in theory be successful
+Some common systemic symptoms of COVID-19, such as fever, fatigue, sputum and myalgia, were more prominent in the patients admitted before January 23, but they were more insidious in patients admitted later
+The need for provision for fetal monitoring including serial ultrasound for women with COVID-19 will be challenging for maternity services
+Lymphopenia is an effective and reliable indicator of severity and hospitalization in COVID-19 patients
+Given the superspreading is unlikely to occur, we can be confident to control the COVID-19 outbreak by reducing the reproduction number to below unity
+Furthermore, the disease course of COVID-19, the duration of viral existence, and the transmissibility of SARS-CoV-2 in asymptomatic carriers remain unknown

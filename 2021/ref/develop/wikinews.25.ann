@@ -1,0 +1,491 @@
+T1	Concept 3 9;10 15;16 20;21 23;24 31;32 33;34 44;45 47;48 60	Centro Chino para el Control y Prevención de Enfermedades
+T2	Concept 62 66	CCDC
+T3	Action 71 80	comenzado
+T4	Action 83 94	desarrollar
+T5	Concept 95 102	vacunas
+T6	Concept 113 118	nuevo
+T7	Concept 119 130	coronavirus
+T8	Action 138 146	probando
+T9	Concept 150 161	efectividad
+T10	Concept 169 181	medicamentos
+T11	Concept 201 209	neumonía
+*	same-as T1 T2
+R0	target Arg1:T4 Arg2:T5
+R1	in-context Arg1:T7 Arg2:T6
+R2	in-context Arg1:T4 Arg2:T7
+R3	in-context Arg1:T10 Arg2:T11
+R4	subject Arg1:T8 Arg2:T1
+R5	target Arg1:T8 Arg2:T9
+R6	in-context Arg1:T8 Arg2:T10
+R7	subject Arg1:T3 Arg2:T1
+R8	target Arg1:T3 Arg2:T4
+T12	Action 219 228	detección
+T13	Concept 233 238	virus
+T14	Action 249 257	utilizar
+A0	Uncertain T14
+T15	Concept 258 266	muestras
+T16	Concept 270 276	esputo
+T17	Concept 279 288	secreción
+T18	Concept 289 301	nasofaringea
+R9	target Arg1:T12 Arg2:T13
+R10	in-context Arg1:T15 Arg2:T16
+R11	in-context Arg1:T17 Arg2:T18
+R12	target Arg1:T14 Arg2:T15
+R13	target Arg1:T14 Arg2:T17
+R14	in-context Arg1:T14 Arg2:T12
+T19	Concept 318 324	fuente
+T20	Concept 329 334	virus
+T21	Concept 338 344	animal
+A1	Uncertain T21
+R15	in-context Arg1:T19 Arg2:T20
+R16	has-property Arg1:T19 Arg2:T21
+T22	Concept 346 358	Inicialmente
+T23	Concept 363 368	virus
+T24	Action 373 380	llamado
+T25	Concept 381 390	2019-nCoV
+T26	Concept 403 413;414 425	2019-novel coronavirus
+R17	target Arg1:T24 Arg2:T25
+R18	subject Arg1:T24 Arg2:T23
+R19	in-time Arg1:T24 Arg2:T22
+*	same-as T25 T26
+T27	Concept 432 438	hombre
+T28	Concept 442 444;445 449	70 años
+T29	Concept 456 462	cantón
+T30	Concept 466 471	habla
+T31	Concept 472 480	italiana
+T32	Concept 484 490	Ticino
+T33	Action 496 502	limita
+T34	Concept 507 513	Italia
+T35	Action 515 518	dio
+T36	Concept 519 527	positivo
+T37	Concept 532 542	SARS-CoV-2
+R20	in-context Arg1:T27 Arg2:T28
+R21	in-place Arg1:T29 Arg2:T32
+R22	in-context Arg1:T30 Arg2:T31
+R23	in-context Arg1:T29 Arg2:T30
+R24	subject Arg1:T33 Arg2:T29
+R25	target Arg1:T33 Arg2:T34
+R26	in-place Arg1:T27 Arg2:T33
+R27	subject Arg1:T35 Arg2:T27
+R28	target Arg1:T35 Arg2:T36
+R29	in-context Arg1:T35 Arg2:T37
+T38	Concept 547 549;550 552;553 558;559 561;562 566	22 de enero de 2020
+T39	Concept 571 579	gobierno
+T40	Concept 580 585	chino
+T41	Action 586 593	declaró
+T42	Concept 597 607	cuarentena
+T43	Concept 615 623	ciudades
+T44	Concept 627 632	Wuhan
+T45	Concept 634 643	Huanggang
+T46	Concept 645 650	Ezhou
+T47	Action 666 673	intento
+T48	Action 677 685	contener
+T49	Action 689 701	diseminación
+T50	Concept 706 711	brote
+T51	Concept 712 717	viral
+R30	in-context Arg1:T50 Arg2:T51
+R31	target Arg1:T49 Arg2:T50
+R32	target Arg1:T48 Arg2:T49
+R33	subject Arg1:T41 Arg2:T39
+R34	in-context Arg1:T39 Arg2:T40
+R35	target Arg1:T41 Arg2:T42
+R36	in-time Arg1:T41 Arg2:T38
+R37	is-a Arg1:T44 Arg2:T43
+R38	is-a Arg1:T45 Arg2:T43
+R39	is-a Arg1:T46 Arg2:T43
+R40	in-place Arg1:T41 Arg2:T44
+R41	in-place Arg1:T41 Arg2:T45
+R42	in-place Arg1:T41 Arg2:T46
+R43	target Arg1:T47 Arg2:T48
+R44	in-context Arg1:T41 Arg2:T47
+T52	Predicate 719 720;721 727	A partir
+T53	Concept 732 734;735 737;738 743;744 746;747 751	17 de marzo de 2020
+T54	Predicate 753 758	todos
+T55	Concept 763 769	países
+T56	Concept 773 779	Europa
+T57	Action 784 793	informado
+T58	Concept 806 810	caso
+A2	Emphasized T58
+T59	Concept 814 822	COVID-19
+T60	Concept 832 842	Montenegro
+T61	Concept 846 852	último
+T62	Concept 867 869;870 876	18 países
+T63	Action 881 890	informado
+T64	Concept 904 910	muerte
+A3	Emphasized T64
+R45	arg Arg1:T52 Arg2:T53
+R46	in-place Arg1:T55 Arg2:T56
+R47	domain Arg1:T54 Arg2:T55
+R48	subject Arg1:T57 Arg2:T54
+R49	in-time Arg1:T57 Arg2:T52
+R50	in-context Arg1:T58 Arg2:T59
+R51	has-property Arg1:T60 Arg2:T61
+R52	target Arg1:T57 Arg2:T58
+R53	is-a Arg1:T60 Arg2:T57
+R54	subject Arg1:T63 Arg2:T62
+R55	target Arg1:T63 Arg2:T64
+R56	in-time Arg1:T63 Arg2:T52
+T65	Concept 912 917	Corea
+T66	Predicate 924 929	único
+T67	Concept 930 934	país
+T68	Action 954 964	realizaron
+T69	Concept 965 973	análisis
+T70	Concept 974 986	sistemáticos
+T71	Concept 990 997	grandes
+T72	Concept 998 1007	conjuntos
+T73	Concept 1011 1020	población
+T74	Concept 1027 1029;1030 1033	10 000
+T75	Predicate 1034 1036	al
+T76	Concept 1037 1040	día
+T77	Concept 1046 1049;1050 1053	210 000
+T78	Action 1054 1068	contabilizados
+T79	Predicate 1069 1074	hasta
+T80	Concept 1078 1080;1081 1083;1084 1089	10 de marzo
+R57	subject Arg1:T68 Arg2:T65
+R58	in-context Arg1:T69 Arg2:T70
+R59	in-context Arg1:T68 Arg2:T69
+R60	in-context Arg1:T72 Arg2:T71
+R61	in-context Arg1:T72 Arg2:T73
+R62	arg Arg1:T79 Arg2:T80
+R63	arg Arg1:T75 Arg2:T76
+R64	in-context Arg1:T74 Arg2:T75
+R65	in-context Arg1:T68 Arg2:T74
+R66	domain Arg1:T66 Arg2:T67
+R67	has-property Arg1:T65 Arg2:T66
+R68	target Arg1:T68 Arg2:T72
+R69	in-time Arg1:T78 Arg2:T79
+R70	in-context Arg1:T78 Arg2:T77
+R71	target Arg1:T78 Arg2:T72
+T81	Action 1108 1115	informa
+T82	Concept 1126 1130	caso
+T83	Concept 1139 1146	período
+T84	Concept 1150 1160	incubación
+T85	Concept 1164 1166;1167 1171	27 días
+R72	in-context Arg1:T83 Arg2:T84
+R73	in-time Arg1:T84 Arg2:T85
+R74	has-property Arg1:T82 Arg2:T83
+R75	target Arg1:T81 Arg2:T82
+T86	Action 1181 1191	informaron
+T87	Concept 1195 1202	escasez
+T88	Predicate 1206 1213	ciertos
+T89	Concept 1214 1223	productos
+T90	Concept 1224 1231	básicos
+T91	Concept 1236 1241	hogar
+R76	domain Arg1:T88 Arg2:T89
+R77	in-context Arg1:T90 Arg2:T91
+R78	in-context Arg1:T88 Arg2:T90
+R79	in-context Arg1:T87 Arg2:T88
+R80	target Arg1:T86 Arg2:T87
+T92	Action 1254 1262	ocultado
+T93	Concept 1266 1271	brote
+T94	Predicate 1272 1277	hasta
+T95	Action 1282 1289	alcanzó
+T96	Concept 1290 1296	escala
+T97	Concept 1297 1310	internacional
+T98	Concept 1312 1315	dos
+T99	Concept 1316 1327	importantes
+T100	Concept 1328 1340	funcionarios
+T101	Concept 1341 1347	chinos
+T102	Action 1355 1366	destituidos
+T103	Concept 1373 1381	sistemas
+T104	Action 1391 1400	adaptando
+T105	Action 1406 1413	mejorar
+T106	Concept 1417 1428	divulgación
+T107	Concept 1431 1438	control
+T108	Concept 1445 1451	crisis
+T109	Concept 1456 1460	SARS
+R81	in-context Arg1:T100 Arg2:T101
+R82	in-context Arg1:T100 Arg2:T99
+R83	in-context Arg1:T96 Arg2:T97
+R84	in-context Arg1:T100 Arg2:T98
+R85	target Arg1:T102 Arg2:T100
+R86	target Arg1:T92 Arg2:T93
+R87	target Arg1:T95 Arg2:T96
+R88	subject Arg1:T95 Arg2:T93
+R89	in-time Arg1:T92 Arg2:T94
+R90	arg Arg1:T94 Arg2:T95
+R91	in-context Arg1:T102 Arg2:T92
+R92	target Arg1:T104 Arg2:T103
+R93	in-context Arg1:T104 Arg2:T105
+R94	target Arg1:T105 Arg2:T106
+R95	target Arg1:T105 Arg2:T107
+R96	in-context Arg1:T108 Arg2:T109
+R97	in-context Arg1:T105 Arg2:T108
+T110	Concept 1462 1476	Investigadores
+T111	Concept 1462 1476	Investigadores
+T112	Concept 1483 1494;1495 1497;1498 1505	Universidad de Utrecht
+T113	Concept 1508 1515;1516 1518	Erasmus MC
+T114	Action 1519 1529	anunciaron
+T115	Action 1534 1545	encontraron
+T116	Concept 1549 1559	anticuerpo
+T117	Concept 1560 1570	monoclonal
+T118	Concept 1571 1577	humano
+T119	Action 1582 1589	bloquea
+T120	Concept 1593 1602	infección
+T121	Concept 1607 1617	SARS-CoV-2
+R98	in-place Arg1:T110 Arg2:T112
+R99	in-place Arg1:T111 Arg2:T113
+R100	subject Arg1:T114 Arg2:T111
+R101	subject Arg1:T114 Arg2:T110
+R102	target Arg1:T114 Arg2:T115
+R103	in-context Arg1:T116 Arg2:T117
+R104	in-context Arg1:T116 Arg2:T118
+R105	subject Arg1:T119 Arg2:T116
+R106	target Arg1:T119 Arg2:T120
+R107	in-context Arg1:T120 Arg2:T121
+R108	target Arg1:T115 Arg2:T119
+T122	Concept 1622 1628	vacuna
+T123	Action 1637 1647	fabricando
+T124	Action 1663 1671	probarse
+T125	Concept 1672 1679	primero
+T126	Concept 1683 1691	animales
+R109	subject Arg1:T123 Arg2:T122
+R110	in-context Arg1:T126 Arg2:T125
+R111	in-place Arg1:T124 Arg2:T126
+R112	subject Arg1:T124 Arg2:T122
+R113	in-context Arg1:T123 Arg2:T124
+T127	Concept 1712 1721	afectados
+T128	Action 1739 1747	contacto
+A4	Uncertain T128
+T129	Predicate 1751 1757	alguna
+T130	Concept 1758 1763	forma
+T131	Concept 1768 1779	murciélagos
+T132	Concept 1786 1797	excrementos
+T133	Action 1799 1810	contrayendo
+T134	Concept 1828 1833	virus
+R114	domain Arg1:T129 Arg2:T130
+R115	subject Arg1:T133 Arg2:T127
+R116	target Arg1:T133 Arg2:T134
+R117	subject Arg1:T128 Arg2:T127
+R118	in-context Arg1:T128 Arg2:T129
+R119	target Arg1:T128 Arg2:T131
+R120	in-context Arg1:T132 Arg2:T131
+R121	target Arg1:T128 Arg2:T132
+R122	causes Arg1:T128 Arg2:T133
+T135	Action 1843 1855	investigando
+T136	Action 1859 1862	uso
+T137	Concept 1866 1876	donaciones
+T138	Concept 1880 1886	sangre
+T139	Concept 1890 1898	personas
+T140	Concept 1899 1904	sanas
+T141	Action 1919 1929	recuperado
+T142	Concept 1933 1941	COVID-19
+T143	Concept 1947 1957	estrategia
+T144	Action 1976 1983	probado
+T145	Concept 1992 1996	SARS
+T146	Concept 2001 2006	primo
+T147	Concept 2007 2015	anterior
+T148	Concept 2019 2027	COVID-19
+R123	target Arg1:T135 Arg2:T136
+R124	in-context Arg1:T137 Arg2:T138
+R125	in-context Arg1:T139 Arg2:T140
+R126	subject Arg1:T141 Arg2:T139
+R127	in-context Arg1:T141 Arg2:T142
+R128	in-context Arg1:T138 Arg2:T141
+R129	target Arg1:T136 Arg2:T137
+R130	is-a Arg1:T136 Arg2:T144
+R131	target Arg1:T144 Arg2:T143
+R132	in-context Arg1:T144 Arg2:T145
+R133	is-a Arg1:T145 Arg2:T146
+R134	in-context Arg1:T146 Arg2:T147
+R135	in-context Arg1:T146 Arg2:T148
+T149	Concept 2032 2044;2045 2047;2048 2053;2054 2061;2062 2064;2065 2075	Departamento de Salud Pública de California
+T150	Action 2076 2080	dijo
+T151	Reference 2085 2089	esto
+T152	Action 2096 2107	representar
+A5	Uncertain T152
+T153	Predicate 2111 2118	primera
+T154	Concept 2119 2130	transmisión
+T155	Concept 2131 2142	comunitaria
+T156	Concept 2149 2156	condado
+R136	subject Arg1:T150 Arg2:T149
+R137	subject Arg1:T152 Arg2:T151
+R138	in-place Arg1:T152 Arg2:T156
+R139	target Arg1:T150 Arg2:T152
+R140	domain Arg1:T153 Arg2:T154
+R141	in-context Arg1:T153 Arg2:T155
+R142	target Arg1:T152 Arg2:T153
+T157	Predicate 2164 2171	mayoría
+T158	Concept 2179 2186	lugares
+T159	Concept 2190 2197;2198 2204	Estados Unidos
+T160	Concept 2210 2217	pruebas
+T161	Predicate 2218 2223	hasta
+T162	Concept 2227 2232	fecha
+T163	Action 2248 2257	realizado
+T164	Concept 2261 2269	personas
+T165	Concept 2261 2269	personas
+T166	Concept 2261 2269	personas
+T167	Concept 2270 2282	sintomáticas
+T168	Concept 2287 2299	antecedentes
+T169	Concept 2303 2309	viajes
+T170	Concept 2312 2317	Wuhan
+T171	Concept 2324 2332	contacto
+T172	Concept 2333 2340	cercano
+T173	Reference 2345 2351	dichas
+T174	Concept 2352 2360	personas
+R143	in-place Arg1:T158 Arg2:T159
+R144	domain Arg1:T157 Arg2:T158
+R145	arg Arg1:T161 Arg2:T162
+R146	target Arg1:T163 Arg2:T160
+R147	in-time Arg1:T163 Arg2:T161
+R148	in-place Arg1:T163 Arg2:T157
+R149	in-context Arg1:T164 Arg2:T167
+R150	in-place Arg1:T169 Arg2:T170
+R151	in-context Arg1:T168 Arg2:T169
+R152	in-context Arg1:T166 Arg2:T168
+R153	in-context Arg1:T165 Arg2:T171
+R154	in-context Arg1:T171 Arg2:T172
+R155	is-a Arg1:T173 Arg2:T174
+R156	in-context Arg1:T171 Arg2:T173
+R157	in-context Arg1:T163 Arg2:T164
+R158	in-context Arg1:T163 Arg2:T165
+R159	in-context Arg1:T163 Arg2:T166
+T175	Action 2369 2378	producido
+T176	Concept 2379 2384	casos
+T177	Concept 2391 2399	personal
+T178	Concept 2400 2409	sanitario
+T179	Action 2414 2421	atendía
+T180	Concept 2428 2437	pacientes
+R160	in-context Arg1:T177 Arg2:T178
+R161	target Arg1:T179 Arg2:T180
+R162	subject Arg1:T179 Arg2:T177
+R163	target Arg1:T175 Arg2:T176
+R164	in-place Arg1:T175 Arg2:T179
+T181	Concept 2439 2446;2447 2453	Estados Unidos
+T182	Action 2462 2467	niega
+T183	Concept 2471 2478	entrada
+T184	Concept 2488 2503	estadounidenses
+A6	Negated T184
+T185	Action 2512 2519	viajado
+T186	Concept 2522 2527	China
+T187	Concept 2535 2538	dos
+T188	Concept 2539 2546	semanas
+T189	Predicate 2547 2557	anteriores
+R165	target Arg1:T185 Arg2:T186
+R166	domain Arg1:T189 Arg2:T188
+R167	arg Arg1:T189 Arg2:T187
+R168	subject Arg1:T185 Arg2:T184
+R169	in-time Arg1:T185 Arg2:T189
+R170	subject Arg1:T182 Arg2:T181
+R171	target Arg1:T182 Arg2:T183
+R172	in-context Arg1:T182 Arg2:T185
+T190	Concept 2562 2567	virus
+T191	Action 2568 2579	corresponde
+T192	Predicate 2585 2589	tipo
+T193	Concept 2593 2604	coronavirus
+T194	Action 2608 2616	conocido
+A7	Negated T194
+T195	Concept 2621 2633	anterioridad
+T196	Concept 2637 2642;2643 2650	seres humanos
+R173	domain Arg1:T192 Arg2:T193
+R174	target Arg1:T194 Arg2:T192
+R175	in-time Arg1:T194 Arg2:T195
+R176	in-context Arg1:T194 Arg2:T196
+R177	subject Arg1:T191 Arg2:T190
+R178	target Arg1:T191 Arg2:T194
+T197	Predicate 2652 2657	Hasta
+T198	Concept 2661 2663;2664 2666;2667 2672	15 de marzo
+T199	Concept 2684 2692	naciones
+T200	Concept 2709 2715	millón
+A8	Emphasized T200
+T201	Concept 2719 2729	ciudadanos
+T202	Concept 2731 2736	Suiza
+T203	Concept 2746 2753	segunda
+T204	Concept 2754 2758	tasa
+T205	Predicate 2759 2762	más
+T206	Concept 2763 2767	alta
+T207	Concept 2772 2777	mundo
+T208	Concept 2781 2786	casos
+T209	Concept 2787 2796	positivos
+T210	Concept 2800 2811	coronavirus
+T211	Concept 2812 2815;2816 2822	per cápita
+T212	Concept 2827 2832;2833 2838	256.2 casos
+T213	Predicate 2839 2842	por
+T214	Concept 2843 2849	millón
+T215	Concept 2853 2861	personas
+R179	in-context Arg1:T201 Arg2:T200
+R180	in-context Arg1:T199 Arg2:T201
+R181	arg Arg1:T197 Arg2:T198
+R182	arg Arg1:T205 Arg2:T206
+R183	domain Arg1:T205 Arg2:T204
+R184	in-context Arg1:T203 Arg2:T205
+R185	in-place Arg1:T205 Arg2:T207
+R186	in-context Arg1:T208 Arg2:T209
+R187	in-context Arg1:T209 Arg2:T210
+R188	in-context Arg1:T208 Arg2:T211
+R189	in-context Arg1:T205 Arg2:T208
+R190	has-property Arg1:T202 Arg2:T203
+R191	in-time Arg1:T202 Arg2:T197
+R192	is-a Arg1:T202 Arg2:T199
+R193	domain Arg1:T213 Arg2:T215
+R194	arg Arg1:T213 Arg2:T214
+R195	in-context Arg1:T212 Arg2:T213
+R196	in-context Arg1:T202 Arg2:T212
+T216	Concept 2866 2868;2869 2871;2872 2877	26 de enero
+T217	Predicate 2882 2888	primer
+T218	Concept 2889 2893	caso
+T219	Concept 2894 2904	sospechoso
+T220	Concept 2908 2916	COVID-19
+T221	Action 2921 2930	ingresado
+T222	Concept 2937 2945	Hospital
+T223	Concept 2946 2952;2953 2958;2959 2964	Kaiser Franz Josef
+T224	Concept 2968 2973	Viena
+R197	in-place Arg1:T223 Arg2:T224
+R198	in-place Arg1:T221 Arg2:T223
+R199	in-context Arg1:T218 Arg2:T219
+R200	domain Arg1:T217 Arg2:T218
+R201	in-context Arg1:T219 Arg2:T220
+R202	subject Arg1:T221 Arg2:T217
+R203	in-time Arg1:T221 Arg2:T216
+R204	is-a Arg1:T223 Arg2:T222
+T225	Action 2981 2990	utilizado
+T226	Concept 2998 3006	COVID-19
+T227	Concept 3019 3028	similitud
+T228	Concept 3039 3042;3043 3055	dos enfermedades
+R205	in-context Arg1:T225 Arg2:T226
+R206	in-context Arg1:T227 Arg2:T228
+R207	causes Arg1:T227 Arg2:T225
+T229	Concept 3063 3068	tarde
+T230	Concept 3072 3074;3075 3080	23 enero
+T231	Concept 3086 3097	autoridades
+T232	Action 3098 3107	empezaron
+T233	Action 3110 3116	cerrar
+T234	Predicate 3117 3124	algunas
+T235	Concept 3132 3142	carreteras
+T236	Concept 3143 3154	importantes
+T237	Action 3159 3164	salen
+T238	Concept 3168 3173	Wuhan
+R208	in-context Arg1:T235 Arg2:T236
+R209	subject Arg1:T237 Arg2:T235
+R210	target Arg1:T237 Arg2:T238
+R211	domain Arg1:T234 Arg2:T237
+R212	target Arg1:T233 Arg2:T234
+R213	subject Arg1:T232 Arg2:T231
+R214	target Arg1:T232 Arg2:T233
+R215	in-time Arg1:T232 Arg2:T230
+R216	in-time Arg1:T232 Arg2:T229
+T239	Concept 3178 3180;3181 3183;3184 3188;3189 3191;3192 3196	12 de mayo de 2013
+T240	Concept 3201 3211;3212 3214;3215 3222;3223 3231;3232 3233;3234 3241	Ministerio de Asuntos Sociales y Sanidad
+T241	Concept 3242 3249	francés
+T242	Action 3250 3258	confirmó
+T243	Concept 3279 3283	caso
+T244	Concept 3284 3294	secundario
+T245	Concept 3301 3306	varón
+T246	Concept 3307 3318	previamente
+T247	Action 3319 3332	hospitalizado
+T248	Predicate 3339 3344	misma
+T249	Concept 3345 3349	sala
+T250	Predicate 3357 3363	primer
+T251	Concept 3364 3372	paciente
+R217	in-context Arg1:T240 Arg2:T241
+R218	subject Arg1:T242 Arg2:T240
+R219	in-time Arg1:T242 Arg2:T239
+R220	in-context Arg1:T243 Arg2:T244
+R221	subject Arg1:T247 Arg2:T245
+R222	in-time Arg1:T247 Arg2:T246
+R223	domain Arg1:T248 Arg2:T249
+R224	domain Arg1:T250 Arg2:T251
+R225	arg Arg1:T248 Arg2:T250
+R226	in-place Arg1:T247 Arg2:T248
+R227	target Arg1:T242 Arg2:T243
+R228	in-context Arg1:T243 Arg2:T247
