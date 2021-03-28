@@ -56,7 +56,7 @@ class Baseline:
             output_data = self.run(input_data, taskA, taskB)
 
             print(f"Writing output to {submit / folder}")
-            output_data.dump(submit / folder / "output.txt")
+            output_data.dump(submit / folder / "output.txt", skip_empty_sentences=False)
 
 
     def run(self, collection, taskA, taskB):

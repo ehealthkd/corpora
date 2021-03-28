@@ -1,3 +1,3 @@
 # Development data
 
-This folder will contain the development data in evaluation format, i.e., divided by scenarios.
+This folder contains the development data in evaluation format, i.e., divided by scenarios. All three scenarios have the same 100 sentences.
