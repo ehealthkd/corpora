@@ -55,8 +55,8 @@ class Baseline:
             print(f"Loaded {len(input_data)} input sentences.")
             output_data = self.run(input_data, taskA, taskB)
 
-            print(f"Writing output to {submit / scenario}")
-            output_data.dump(submit / scenario / "output.txt")
+            print(f"Writing output to {submit / folder}")
+            output_data.dump(submit / folder / "output.txt")
 
 
     def run(self, collection, taskA, taskB):
