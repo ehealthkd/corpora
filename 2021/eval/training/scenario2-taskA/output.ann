@@ -260,490 +260,487 @@ T248	Concept 3501 3511	importante
 T249	Concept 3519 3524	vidas
 T250	Concept 3529 3533	moho
 T251	Concept 3551 3557	hongos
-T252	Concept 3551 3557	hongos
-T253	Action 3569 3580	encontrarse
-T254	Concept 3584 3594	exteriores
-T255	Concept 3597 3607	interiores
-T256	Reference 3609 3613	Este
-T257	Concept 3614 3623	trastorno
-T258	Action 3637 3644	difícil
-T259	Reference 3650 3655	ellos
-T260	Action 3656 3664	mantener
-T261	Concept 3668 3675	trabajo
-T262	Action 3678 3684	cuidar
-T263	Predicate 3699 3706	Algunos
-T264	Predicate 3707 3712	tipos
-T265	Concept 3716 3724	artritis
-T266	Action 3740 3749	problemas
-T267	Concept 3757 3764	órganos
-T268	Concept 3775 3779	ojos
-T269	Concept 3785 3789	piel
-T270	Action 3811 3817	pausas
-A11	Uncertain T270
-T271	Predicate 3818 3823	entre
-T272	Concept 3828 3840	tratamientos
-T273	Concept 3853 3859	cuerpo
-T274	Action 3884 3892	producir
-T275	Concept 3900 3907	células
-T276	Concept 3908 3913	sanas
-T277	Reference 3921 3926	estos
-T278	Concept 3943 3955;3956 3966	enfermedades pulmonares
-T279	Concept 3943 3955;3968 3977	enfermedades cardiacas
-T280	Concept 3943 3955;3979 3989	enfermedades vasculares
-T281	Concept 3991 3999;4000 4010	derrames cerebrales
-T282	Concept 4013 4022	cataratas
-T283	Concept 4028 4033	bebés
-T284	Concept 4037 4046;4047 4056	embarazos múltiples
-T285	Predicate 4070 4076	riesgo
-T286	Action 4080 4085	nacer
-T287	Concept 4086 4100	prematuramente
-T288	Concept 4106 4114	resfríos
-T289	Concept 4132 4138	fiebre
-A12	Diminished T289
-T290	Concept 4141 4148	dolores
-A13	Diminished T290
-T291	Concept 4152 4158	cabeza
-T292	Concept 4164 4172	personas
-T293	Predicate 4173 4176	con
-T294	Concept 4177 4180	TOC
-T295	Action 4182 4188	tienen
-T296	Concept 4189 4201	pensamientos
-T297	Concept 4202 4211	repetidos
-T298	Concept 4214 4226	angustiantes
-T299	Concept 4239 4249	obsesiones
-T300	Action 4254 4266	estiramiento
-T301	Action 4272 4278	masaje
-T302	Concept 4279 4284	suave
-T303	Concept 4294 4301	músculo
-T304	Action 4309 4316	aliviar
-T305	Concept 4320 4325	dolor
-T306	Concept 4330 4337	terapia
-T307	Concept 4338 4346	dirigida
-T308	Predicate 4353 4357	tipo
-T309	Concept 4361 4372	tratamiento
-T310	Action 4386 4394	utilizan
-T311	Concept 4395 4405	sustancias
-T312	Action 4411 4422	identificar
-T313	Action 4425 4431	atacar
-T314	Concept 4432 4439;4440 4450	células cancerosas
-T315	Predicate 4451 4462	específicas
-T316	Action 4467 4472	dañar
-T317	Concept 4477 4484	células
-T318	Concept 4485 4493	normales
-T319	Predicate 4495 4502	Después
-T320	Concept 4510 4512;4513 4517	20 años
-T321	Concept 4521 4525	edad
-T322	Action 4533 4539	perder
-T323	Concept 4540 4546	huesos
-T324	Predicate 4547 4550	más
-T325	Concept 4551 4557	rápido
-T326	Action 4569 4576	produce
-T327	Concept 4581 4584	ONU
-T328	Action 4588 4596	alertado
-T329	Concept 4607 4616	conflicto
-T330	Concept 4617 4623	armado
-T331	Concept 4630 4634	país
-T332	Action 4638 4644	tenido
-T333	Predicate 4648 4654	número
-A14	Emphasized T333
-T334	Concept 4658 4666	víctimas
-T335	Predicate 4695 4703	primeros
-T336	Concept 4704 4708;4709 4714	seis meses
-T337	Concept 4718 4722	2017
-T338	Reference 4727 4729	su
-T339	Concept 4730 4738	ponencia
-T340	Concept 4750 4756	sesión
-T341	Concept 4782 4786	ayer
-T342	Action 4788 4794	afirmó
-T343	Concept 4802 4806	sexo
-T344	Concept 4813 4820;4821 4833	parejas homosexuales
-T345	Concept 4859 4870	recreativos
-T346	Action 4880 4888	opondría
-T347	Action 4894 4904	aprobación
-T348	Reference 4908 4910	la
-T349	Concept 4911 4914	ley
-T350	Action 4936 4942	contra
-T351	Concept 4947 4952;4953 4960	orden natural
-T352	Concept 4978 4986;4987 4989;4990 4994	síndrome de Reye
-T353	Concept 5010 5014	coma
-T354	Concept 5017 5023;5024 5032	muerte cerebral
-T355	Action 5049 5060	diagnóstico
-T356	Action 5063 5074	tratamiento
-T357	Concept 5075 5081	rápido
-T358	Concept 5085 5095	importante
-T359	Concept 5101 5112	mastectomía
-T360	Concept 5120 5127	cirugía
-T361	Action 5133 5141	extirpar
-T362	Concept 5145 5149	seno
-T363	Concept 5169 5178;5179 5189	trastorno metabólico
-T364	Action 5200 5208	problema
-T365	Reference 5212 5216	este
-T366	Concept 5217 5224	proceso
-T367	Action 5238 5243	tomar
-T368	Concept 5244 5251	medidas
-T369	Action 5257 5264	mejorar
-T370	Concept 5269 5276	hábitos
-T371	Concept 5280 5285	sueño
-T372	Concept 5291 5299	hormonas
-T373	Concept 5304 5314;5315 5323	mensajeros químicos
-T374	Reference 5325 5329	Esto
-T375	Concept 5345 5350;5351 5358;5359 5366	dolor pélvico crónico
-T376	Concept 5368 5380	infertilidad
-T377	Concept 5383 5391;5392 5400	embarazo ectópico
-T378	Concept 5405 5411	olfato
-T379	Action 5416 5423	permite
-T380	Action 5424 5433	disfrutar
-T381	Concept 5438 5446	esencias
-T382	Concept 5449 5459	fragancias
-T383	Concept 5470 5475	rosas
-T384	Concept 5481 5485	café
-T385	Concept 5490 5502	osteoporosis
-T386	Concept 5509 5515	cadera
-T387	Action 5529 5538	debiliten
-T388	Concept 5543 5549	huesos
-T389	Action 5555 5561	rompan
-T390	Concept 5562 5572	fácilmente
-T391	Concept 5577 5588	tratamiento
-T392	Action 5589 5596	depende
-T393	Predicate 5601 5607	tamaño
-T394	Predicate 5613 5622	ubicación
-T395	Concept 5627 5636	aneurisma
-T396	Action 5646 5655	infectado
-T397	Action 5667 5671	roto
-T398	Action 5676 5682	existe
-A15	Negated T398
-T399	Concept 5687 5691	cura
-T400	Concept 5700 5705	Ebola
-T401	Concept 5710 5720;5721 5723;5724 5731	enfermedad de Hodgkin
-T402	Concept 5746 5753	linfoma
-T403	Concept 5758 5764	cáncer
-T404	Concept 5782 5789;5790 5801	sistema inmunitario
-T405	Concept 5810 5817;5818 5827	sistema linfático
-T406	Concept 5832 5841	ecografía
-T407	Concept 5844 5855	ultrasonido
-T408	Predicate 5862 5866	tipo
-T409	Concept 5870 5876	imagen
-T410	Action 5887 5893	causas
-T411	Concept 5894 5905	principales
-T412	Concept 5909 5915	anemia
-T413	Action 5921 5928	pérdida
-T414	Concept 5932 5938	sangre
-T415	Action 5943 5951	producir
-T416	Concept 5952 5960;5961 5966	glóbulos rojos
-T417	Action 5969 5980	destrucción
-T418	Concept 5997 6006	velocidad
-T419	Concept 6012 6018;6019 6021;6022 6026	drogas de club
-T420	Action 6046 6052	usadas
-T421	Action 6058 6069	violaciones
-T422	Concept 6073 6078	citas
-T423	Concept 6084 6093	violación
-T424	Concept 6107 6116;6117 6123	actividad sexual
-T425	Concept 6134 6139	usted
-T426	Action 6146 6150	dado
-T427	Concept 6154 6166	autorización
-T428	Concept 6172 6186	complicaciones
-T429	Action 6191 6201	trasplante
-T430	Concept 6205 6211	pulmón
-T431	Action 6221 6228	rechazo
-T432	Concept 6233 6239	pulmón
-T433	Concept 6240 6252	trasplantado
-T434	Concept 6255 6266	infecciones
-T435	Concept 6278 6281	dos
-T436	Action 6282 6287	goles
-T437	Concept 6288 6298	cardenales
-T438	Concept 6309 6314;6315 6321	Jairo Suárez
-T439	Concept 6324 6330;6331 6338	Nelson Olveira
-T440	Concept 6367 6372	penal
-T441	Action 6374 6381	Invaden
-T442	Concept 6386 6393	células
-T443	Concept 6394 6399	vivas
-T444	Concept 6402 6410	normales
-T445	Action 6417 6421	usan
-T446	Action 6427 6440	multiplicarse
-T447	Action 6443 6451	producir
-T448	Concept 6458 6463	virus
-T449	Reference 6469 6474	ellos
-T450	Concept 6479 6487	diabetes
-T451	Concept 6505 6512	glucosa
-T452	Concept 6515 6521	azúcar
-T453	Concept 6528 6534	sangre
-T454	Concept 6549 6553	alta
-T455	Action 6558 6567	privación
-T456	Concept 6572 6577	sueño
-T457	Action 6578 6585	aumenta
-T458	Predicate 6589 6595	efecto
-T459	Concept 6600 6607	alcohol
-T460	Action 6628 6637	problemas
-T461	Action 6643 6651	respirar
-T462	Concept 6656 6662	cuesta
-T463	Concept 6668 6676	incómodo
-T464	Action 6677 6684	obtener
-T465	Concept 6688 6695	oxígeno
-T466	Predicate 6710 6717	Algunas
-T467	Concept 6718 6729	operaciones
-T468	Concept 6739 6746;6747 6749;6750 6757	cirugía de corazón
-T469	Action 6766 6774	salvarle
-T470	Concept 6778 6782	vida
-T471	Predicate 6784 6791	Algunas
-T472	Concept 6792 6800	personas
-T473	Action 6816 6822;6823 6825;6826 6833	ataque de vértigo
-T474	Action 6816 6822;6823 6825;6826 6833	ataque de vértigo
-T475	Predicate 6837 6840;6841 6843;6844 6850	vez en cuando
-T476	Predicate 6853 6858	otras
-T477	Concept 6872 6879	ataques
-T478	Concept 6884 6898	frecuentemente
-T479	Predicate 6908 6914	varios
-T480	Predicate 6915 6919	días
-T481	Concept 6933 6938	lista
-T482	Action 6944 6949	tener
-T483	Concept 6955 6959	bebé
-T484	Concept 6961 6966	usted
-T485	Action 6967 6976	comenzará
-T486	Concept 6980 6987;6988 6990;6991 6996	trabajo de parto
-T487	Action 7001 7005	paso
-T488	Concept 7010 7015	ácido
-T489	Predicate 7016 7021	desde
-T490	Concept 7025 7033	estómago
-T491	Predicate 7034 7039	hacia
-T492	Concept 7043 7050	esófago
-T493	Concept 7063 7070;7071 7086	reflujo gastroesofágico
-T494	Concept 7091 7104	poliomielitis
-T495	Concept 7106 7111	polio
-T496	Concept 7120 7130	enfermedad
-T497	Concept 7131 7141	infecciosa
-T498	Concept 7157 7162	virus
-T499	Predicate 7164 7171	Algunos
-T500	Concept 7172 7180	animales
-T501	Concept 7181 7189	salvajes
-T502	Action 7194 7204	portadores
-T503	Concept 7208 7213	rabia
-T504	Concept 7221 7229	arritmia
-T505	Concept 7233 7238	seria
-T506	Action 7254 7262	necesite
-T507	Concept 7266 7276	marcapasos
-T508	Concept 7277 7285	cardíaco
-T509	Concept 7291 7304	desfibrilador
-T510	Concept 7305 7316	implantable
-T511	Concept 7321 7325	Zika
-T512	Concept 7339 7351	microcefalia
-T513	Concept 7356 7363	defecto
-T514	Concept 7367 7377	nacimiento
-T515	Concept 7378 7383	serio
-T516	Concept 7398 7404	cabeza
-T517	Concept 7412 7419	persona
-T518	Predicate 7429 7432;7433 7440	más pequeña
-T519	Concept 7447 7453	normal
-T520	Action 7463 7472	problemas
-T521	Concept 7476 7481	bebés
-T522	Concept 7488 7494	madres
-T523	Action 7502 7512	infectadas
-T524	Concept 7521 7532	embarazadas
-T525	Concept 7538 7549	analgésicos
-T526	Predicate 7550 7553	más
-T527	Concept 7554 7562	potentes
-T528	Concept 7571 7579	opioides
-T529	Action 7581 7586	Beber
-T530	Concept 7597 7604	alcohol
-T531	Concept 7608 7617	peligroso
-T532	Action 7635 7641	existe
-T533	Action 7645 7656	tratamiento
-T534	Concept 7657 7665	estándar
-T535	Concept 7674 7677	TEA
-T536	Concept 7683 7690;7691 7702	dientes permanentes
-T537	Concept 7703 7711	derechos
-T538	Action 7728 7736	prevenir
-T539	Concept 7737 7746;7747 7755	problemas dentales
-T540	Concept 7762 7768	futuro
-T541	Concept 7781 7795;7796 7804	rehabilitación pulmonar
-T542	Concept 7806 7811	usted
-T543	Action 7815 7824	entrenará
-T544	Concept 7836 7845;7846 7852	ejercicio físico
-T545	Action 7855 7863	aprender
-T546	Concept 7864 7872	técnicas
-T547	Concept 7876 7887	respiración
-T548	Concept 7892 7900	obesidad
-T549	Action 7901 7908	aumenta
-T550	Predicate 7912 7918	riesgo
-T551	Action 7922 7929	padecer
-T552	Concept 7930 7938	diabetes
-T553	Concept 7940 7952;7953 7962	enfermedades cardiacas
-T554	Concept 7964 7972;7973 7983	derrames cerebrales
-T555	Concept 7985 7993	artritis
-T556	Predicate 7996 8003	ciertos
-T557	Concept 8004 8012	cánceres
-T558	Reference 8020 8022	su
-T559	Action 8023 8030	llegada
-T560	Action 8032 8039	informó
-T561	Concept 8046 8056	reporteros
-T562	Concept 8062 8068	Israel
-T563	Concept 8077 8086	auténtico
-T564	Action 8087 8093	aliado
-T565	Concept 8098 8103	nuevo
-T566	Concept 8104 8112	gobierno
-T567	Concept 8113 8122	palestino
-T568	Concept 8128 8142	hipotiroidismo
-T569	Predicate 8146 8149	más
-T570	Concept 8150 8155	común
-T571	Concept 8163 8170	mujeres
-T572	Concept 8179 8187	personas
-T573	Action 8198 8207	problemas
-T574	Concept 8214 8222	tiroides
-T575	Concept 8232 8240	personas
-T576	Predicate 8241 8248	mayores
-T577	Concept 8252 8254;8255 8259	60 años
-T578	Concept 8272 8278;8279 8282;8283 8286;8287 8300;8301 8303;8304 8307;8308 8320	Marcha del Día Internacional de los Trabajadores
-T579	Action 8321 8330	convocada
-T580	Concept 8339 8348;8349 8359	centrales sindicales
-T581	Concept 8360 8371	colombianas
-T582	Concept 8377 8384;8385 8393	partido político
-T583	Concept 8394 8398;8399 8410;8411 8422	Polo Democrático Alternativo
-T584	Concept 8424 8427	PDA
-T585	Action 8440 8450	disturbios
-T586	Concept 8460 8467;8468 8476	Policia Nacional
-T587	Concept 8491 8500;8501 8506;8507 8521	Escuadrón Móvil Antidisturbios
-T588	Concept 8523 8528	ESMAD
-T589	Predicate 8536 8541	grupo
-T590	Concept 8545 8556	anarquistas
-T591	Predicate 8569 8574	entre
-T592	Concept 8579 8592	manifestantes
-T593	Action 8593 8601	lanzando
-T594	Concept 8602 8609	objetos
-T595	Concept 8610 8622	contundentes
-T596	Concept 8627 8634;8635 8643	terapia dirigida
-T597	Action 8644 8651	utiliza
-T598	Concept 8652 8662	sustancias
-T599	Action 8667 8673	atacan
-T600	Concept 8678 8685;8686 8696	células cancerosas
-T601	Action 8699 8707	bloquean
-T602	Action 8711 8722	crecimiento
-T603	Action 8725 8737	diseminación
-T604	Reference 8739 8741	La
-T605	Concept 8742 8752	enfermedad
-T606	Action 8759 8766	afectar
-T607	Predicate 8767 8770	uno
-T608	Predicate 8773 8779	varios
-T609	Concept 8780 8786	huesos
-T610	Predicate 8796 8800	todo
-T611	Concept 8804 8813	esqueleto
-T612	Concept 8815 8819;8820 8825	Ehud Barak
-T613	Concept 8830 8838;8839 8841;8842 8849	Ministro de Defensa
-T614	Concept 8850 8857	israelí
-T615	Action 8858 8862	dijo
-T616	Concept 8871 8879	objetivo
-T617	Action 8883 8892	debilitar
-T618	Concept 8895 8900	Hamás
-T619	Concept 8903 8907	Boca
-T620	Concept 8908 8912	seca
-T621	Action 8919 8928	sensación
-T622	Predicate 8943 8953	suficiente
-T623	Concept 8954 8960	saliva
-T624	Concept 8967 8971	boca
-T625	Concept 8976 8982	retina
-T626	Concept 8990 8994;8995 8997;8998 9004	capa de tejido
-T627	Predicate 9011 9016;9017 9026	parte posterior
-T628	Concept 9031 9034	ojo
-T629	Action 9039 9046	percibe
-T630	Concept 9050 9053	luz
-T631	Action 9056 9061	envía
-T632	Concept 9066 9074	imágenes
-T633	Concept 9078 9085	cerebro
-T634	Action 9095 9102	tomando
-T635	Concept 9103 9118	anticoagulantes
-T636	Action 9120 9128	necesita
-T637	Action 9135 9142	cuidado
-T638	Predicate 9150 9158	cantidad
-T639	Concept 9162 9170;9171 9172	vitamina K
-T640	Action 9177 9184	consume
-T641	Reference 9186 9191	Estos
-T642	Concept 9201 9207	hierro
-T643	Concept 9209 9218	manganeso
-T644	Concept 9220 9225	cobre
-T645	Concept 9227 9231	yodo
-T646	Concept 9233 9237	cinc
-T647	Concept 9239 9246	cobalto
-T648	Concept 9248 9253	flúor
-T649	Concept 9256 9263	selenio
-T650	Reference 9268 9271	ese
-T651	Concept 9272 9280	instante
-T652	Concept 9281 9285	todo
-T653	Action 9294 9301	indicar
-T654	Concept 9306 9312	Brasil
-T655	Action 9319 9326	someter
-T656	Concept 9333 9342	africanos
-T657	Concept 9384 9391	hombres
-T658	Action 9399 9407	contraer
-A16	Uncertain T658
-T659	Concept 9408 9416	clamidia
-T660	Concept 9423 9429	uretra
-T661	Predicate 9434 9442	interior
-T662	Concept 9447 9451	pene
-T663	Concept 9457 9462	recto
-T664	Concept 9468 9476	garganta
-T665	Action 9478 9485	Produce
-T666	Concept 9486 9494	hormonas
-T667	Action 9499 9505	ayudan
-T668	Concept 9509 9515	cuerpo
-T669	Action 9518 9527	funcionar
-T670	Concept 9528 9539	normalmente
-T671	Concept 9556 9564	diabetes
-T672	Predicate 9570 9577	niveles
-T673	Concept 9581 9587	azúcar
-T674	Concept 9591 9598	glucosa
-T675	Concept 9606 9612	sangre
-T676	Predicate 9617 9626	demasiado
-T677	Concept 9627 9632	altos
-T678	Action 9638 9649	dislocación
-T679	Action 9638 9649	dislocación
-T680	Concept 9653 9659	hombro
-T681	Concept 9662 9668	rótula
-T682	Action 9688 9698	dislocarse
-A17	Uncertain T682
-T683	Concept 9703 9711	adelante
-T684	Predicate 9716 9723	mayoría
-T685	Concept 9731 9732;9734 9738	E coli
-T686	Action 9742 9748	causan
-T687	Concept 9749 9758	problemas
-T688	Action 9763 9772	bronceado
-T689	Concept 9776 9786	interiores
-T690	Concept 9806 9815	peligroso
-T691	Concept 9829 9836	jóvenes
-T692	Concept 9838 9846;9847 9852	Graciela Ocaña
-T693	Concept 9854 9862;9863 9865;9866 9871	ministra de Salud
-T694	Concept 9878 9887	Argentina
-T695	Action 9889 9897	renunció
-T696	Concept 9898 9901	hoy
-T697	Action 9921 9933	agravamiento
-T698	Concept 9940 9946;9947 9956	crisis sanitaria
-T699	Action 9973 9979	alerta
-T700	Concept 9983 9987	país
-T701	Action 9992 10006	rehabilitación
-T702	Predicate 10008 10012	tras
-T703	Concept 10016 10025;10026 10041	accidente cerebrovascular
-T704	Action 10048 10054	ayudar
-T705	Concept 10061 10069	personas
-T706	Action 10072 10079	superar
-T707	Concept 10084 10098	discapacidades
-T708	Concept 10115 10124	apoplejía
-T709	Concept 10130 10137	tumores
-T710	Concept 10149 10157	benignos
-T711	Concept 10160 10168	malignos
-T712	Action 10173 10179	acceso
-T713	Concept 10180 10188	limitado
-T714	Concept 10194 10202;10203 10205;10206 10211	atención de salud
-T715	Action 10218 10226	empeorar
-T716	Reference 10231 10236	cosas
-T717	Action 10241 10252	deficiencia
-T718	Concept 10256 10263;10264 10267;10268 10290	glucosa -6- fosfato-deshidrogenasa
-T719	Action 10308 10319	deficiencia
-T720	Concept 10323 10329	G-6-PD
-T721	Concept 10338 10348;10349 10360	enfermedad hereditaria
-T722	Concept 10371 10383	generalmente
-T723	Concept 10391 10398	varones
-T724	Concept 10403 10411;10412 10414;10415 10426	síndrome de Klinefelter
-T725	Concept 10433 10439	cuadro
-T726	Action 10444 10450	ocurre
-T727	Concept 10461 10468	hombres
-T728	Concept 10483 10492;10493 10494	cromosoma X
-T729	Concept 10495 10504	adicional
-T730	Predicate 10511 10518	mayoría
-T731	Concept 10526 10533	células
+T252	Action 3569 3580	encontrarse
+T253	Concept 3584 3594	exteriores
+T254	Concept 3597 3607	interiores
+T255	Reference 3609 3613	Este
+T256	Concept 3614 3623	trastorno
+T257	Action 3637 3644	difícil
+T258	Reference 3650 3655	ellos
+T259	Action 3656 3664	mantener
+T260	Concept 3668 3675	trabajo
+T261	Action 3678 3684	cuidar
+T262	Predicate 3699 3706	Algunos
+T263	Predicate 3707 3712	tipos
+T264	Concept 3716 3724	artritis
+T265	Action 3740 3749	problemas
+T266	Concept 3757 3764	órganos
+T267	Concept 3775 3779	ojos
+T268	Concept 3785 3789	piel
+T269	Action 3811 3817	pausas
+A11	Uncertain T269
+T270	Predicate 3818 3823	entre
+T271	Concept 3828 3840	tratamientos
+T272	Concept 3853 3859	cuerpo
+T273	Action 3884 3892	producir
+T274	Concept 3900 3907	células
+T275	Concept 3908 3913	sanas
+T276	Reference 3921 3926	estos
+T277	Concept 3943 3955;3956 3966	enfermedades pulmonares
+T278	Concept 3943 3955;3968 3977	enfermedades cardiacas
+T279	Concept 3943 3955;3979 3989	enfermedades vasculares
+T280	Concept 3991 3999;4000 4010	derrames cerebrales
+T281	Concept 4013 4022	cataratas
+T282	Concept 4028 4033	bebés
+T283	Concept 4037 4046;4047 4056	embarazos múltiples
+T284	Predicate 4070 4076	riesgo
+T285	Action 4080 4085	nacer
+T286	Concept 4086 4100	prematuramente
+T287	Concept 4106 4114	resfríos
+T288	Concept 4132 4138	fiebre
+A12	Diminished T288
+T289	Concept 4141 4148	dolores
+A13	Diminished T289
+T290	Concept 4152 4158	cabeza
+T291	Concept 4164 4172	personas
+T292	Predicate 4173 4176	con
+T293	Concept 4177 4180	TOC
+T294	Action 4182 4188	tienen
+T295	Concept 4189 4201	pensamientos
+T296	Concept 4202 4211	repetidos
+T297	Concept 4214 4226	angustiantes
+T298	Concept 4239 4249	obsesiones
+T299	Action 4254 4266	estiramiento
+T300	Action 4272 4278	masaje
+T301	Concept 4279 4284	suave
+T302	Concept 4294 4301	músculo
+T303	Action 4309 4316	aliviar
+T304	Concept 4320 4325	dolor
+T305	Concept 4330 4337	terapia
+T306	Concept 4338 4346	dirigida
+T307	Predicate 4353 4357	tipo
+T308	Concept 4361 4372	tratamiento
+T309	Action 4386 4394	utilizan
+T310	Concept 4395 4405	sustancias
+T311	Action 4411 4422	identificar
+T312	Action 4425 4431	atacar
+T313	Concept 4432 4439;4440 4450	células cancerosas
+T314	Predicate 4451 4462	específicas
+T315	Action 4467 4472	dañar
+T316	Concept 4477 4484	células
+T317	Concept 4485 4493	normales
+T318	Predicate 4495 4502	Después
+T319	Concept 4510 4512;4513 4517	20 años
+T320	Concept 4521 4525	edad
+T321	Action 4533 4539	perder
+T322	Concept 4540 4546	huesos
+T323	Predicate 4547 4550	más
+T324	Concept 4551 4557	rápido
+T325	Action 4569 4576	produce
+T326	Concept 4581 4584	ONU
+T327	Action 4588 4596	alertado
+T328	Concept 4607 4616	conflicto
+T329	Concept 4617 4623	armado
+T330	Concept 4630 4634	país
+T331	Action 4638 4644	tenido
+T332	Predicate 4648 4654	número
+A14	Emphasized T332
+T333	Concept 4658 4666	víctimas
+T334	Predicate 4695 4703	primeros
+T335	Concept 4704 4708;4709 4714	seis meses
+T336	Concept 4718 4722	2017
+T337	Reference 4727 4729	su
+T338	Concept 4730 4738	ponencia
+T339	Concept 4750 4756	sesión
+T340	Concept 4782 4786	ayer
+T341	Action 4788 4794	afirmó
+T342	Concept 4802 4806	sexo
+T343	Concept 4813 4820;4821 4833	parejas homosexuales
+T344	Concept 4859 4870	recreativos
+T345	Action 4880 4888	opondría
+T346	Action 4894 4904	aprobación
+T347	Reference 4908 4910	la
+T348	Concept 4911 4914	ley
+T349	Action 4936 4942	contra
+T350	Concept 4947 4952;4953 4960	orden natural
+T351	Concept 4978 4986;4987 4989;4990 4994	síndrome de Reye
+T352	Concept 5010 5014	coma
+T353	Concept 5017 5023;5024 5032	muerte cerebral
+T354	Action 5049 5060	diagnóstico
+T355	Action 5063 5074	tratamiento
+T356	Concept 5075 5081	rápido
+T357	Concept 5085 5095	importante
+T358	Concept 5101 5112	mastectomía
+T359	Concept 5120 5127	cirugía
+T360	Action 5133 5141	extirpar
+T361	Concept 5145 5149	seno
+T362	Concept 5169 5178;5179 5189	trastorno metabólico
+T363	Action 5200 5208	problema
+T364	Reference 5212 5216	este
+T365	Concept 5217 5224	proceso
+T366	Action 5238 5243	tomar
+T367	Concept 5244 5251	medidas
+T368	Action 5257 5264	mejorar
+T369	Concept 5269 5276	hábitos
+T370	Concept 5280 5285	sueño
+T371	Concept 5291 5299	hormonas
+T372	Concept 5304 5314;5315 5323	mensajeros químicos
+T373	Reference 5325 5329	Esto
+T374	Concept 5345 5350;5351 5358;5359 5366	dolor pélvico crónico
+T375	Concept 5368 5380	infertilidad
+T376	Concept 5383 5391;5392 5400	embarazo ectópico
+T377	Concept 5405 5411	olfato
+T378	Action 5416 5423	permite
+T379	Action 5424 5433	disfrutar
+T380	Concept 5438 5446	esencias
+T381	Concept 5449 5459	fragancias
+T382	Concept 5470 5475	rosas
+T383	Concept 5481 5485	café
+T384	Concept 5490 5502	osteoporosis
+T385	Concept 5509 5515	cadera
+T386	Action 5529 5538	debiliten
+T387	Concept 5543 5549	huesos
+T388	Action 5555 5561	rompan
+T389	Concept 5562 5572	fácilmente
+T390	Concept 5577 5588	tratamiento
+T391	Action 5589 5596	depende
+T392	Predicate 5601 5607	tamaño
+T393	Predicate 5613 5622	ubicación
+T394	Concept 5627 5636	aneurisma
+T395	Action 5646 5655	infectado
+T396	Action 5667 5671	roto
+T397	Action 5676 5682	existe
+A15	Negated T397
+T398	Concept 5687 5691	cura
+T399	Concept 5700 5705	Ebola
+T400	Concept 5710 5720;5721 5723;5724 5731	enfermedad de Hodgkin
+T401	Concept 5746 5753	linfoma
+T402	Concept 5758 5764	cáncer
+T403	Concept 5782 5789;5790 5801	sistema inmunitario
+T404	Concept 5810 5817;5818 5827	sistema linfático
+T405	Concept 5832 5841	ecografía
+T406	Concept 5844 5855	ultrasonido
+T407	Predicate 5862 5866	tipo
+T408	Concept 5870 5876	imagen
+T409	Action 5887 5893	causas
+T410	Concept 5894 5905	principales
+T411	Concept 5909 5915	anemia
+T412	Action 5921 5928	pérdida
+T413	Concept 5932 5938	sangre
+T414	Action 5943 5951	producir
+T415	Concept 5952 5960;5961 5966	glóbulos rojos
+T416	Action 5969 5980	destrucción
+T417	Concept 5997 6006	velocidad
+T418	Concept 6012 6018;6019 6021;6022 6026	drogas de club
+T419	Action 6046 6052	usadas
+T420	Action 6058 6069	violaciones
+T421	Concept 6073 6078	citas
+T422	Concept 6084 6093	violación
+T423	Concept 6107 6116;6117 6123	actividad sexual
+T424	Concept 6134 6139	usted
+T425	Action 6146 6150	dado
+T426	Concept 6154 6166	autorización
+T427	Concept 6172 6186	complicaciones
+T428	Action 6191 6201	trasplante
+T429	Concept 6205 6211	pulmón
+T430	Action 6221 6228	rechazo
+T431	Concept 6233 6239	pulmón
+T432	Concept 6240 6252	trasplantado
+T433	Concept 6255 6266	infecciones
+T434	Concept 6278 6281	dos
+T435	Action 6282 6287	goles
+T436	Concept 6288 6298	cardenales
+T437	Concept 6309 6314;6315 6321	Jairo Suárez
+T438	Concept 6324 6330;6331 6338	Nelson Olveira
+T439	Concept 6367 6372	penal
+T440	Action 6374 6381	Invaden
+T441	Concept 6386 6393	células
+T442	Concept 6394 6399	vivas
+T443	Concept 6402 6410	normales
+T444	Action 6417 6421	usan
+T445	Action 6427 6440	multiplicarse
+T446	Action 6443 6451	producir
+T447	Concept 6458 6463	virus
+T448	Reference 6469 6474	ellos
+T449	Concept 6479 6487	diabetes
+T450	Concept 6505 6512	glucosa
+T451	Concept 6515 6521	azúcar
+T452	Concept 6528 6534	sangre
+T453	Concept 6549 6553	alta
+T454	Action 6558 6567	privación
+T455	Concept 6572 6577	sueño
+T456	Action 6578 6585	aumenta
+T457	Predicate 6589 6595	efecto
+T458	Concept 6600 6607	alcohol
+T459	Action 6628 6637	problemas
+T460	Action 6643 6651	respirar
+T461	Concept 6656 6662	cuesta
+T462	Concept 6668 6676	incómodo
+T463	Action 6677 6684	obtener
+T464	Concept 6688 6695	oxígeno
+T465	Predicate 6710 6717	Algunas
+T466	Concept 6718 6729	operaciones
+T467	Concept 6739 6746;6747 6749;6750 6757	cirugía de corazón
+T468	Action 6766 6774	salvarle
+T469	Concept 6778 6782	vida
+T470	Predicate 6784 6791	Algunas
+T471	Concept 6792 6800	personas
+T472	Action 6816 6822;6823 6825;6826 6833	ataque de vértigo
+T473	Predicate 6837 6840;6841 6843;6844 6850	vez en cuando
+T474	Predicate 6853 6858	otras
+T475	Concept 6872 6879	ataques
+T476	Concept 6884 6898	frecuentemente
+T477	Predicate 6908 6914	varios
+T478	Predicate 6915 6919	días
+T479	Concept 6933 6938	lista
+T480	Action 6944 6949	tener
+T481	Concept 6955 6959	bebé
+T482	Concept 6961 6966	usted
+T483	Action 6967 6976	comenzará
+T484	Concept 6980 6987;6988 6990;6991 6996	trabajo de parto
+T485	Action 7001 7005	paso
+T486	Concept 7010 7015	ácido
+T487	Predicate 7016 7021	desde
+T488	Concept 7025 7033	estómago
+T489	Predicate 7034 7039	hacia
+T490	Concept 7043 7050	esófago
+T491	Concept 7063 7070;7071 7086	reflujo gastroesofágico
+T492	Concept 7091 7104	poliomielitis
+T493	Concept 7106 7111	polio
+T494	Concept 7120 7130	enfermedad
+T495	Concept 7131 7141	infecciosa
+T496	Concept 7157 7162	virus
+T497	Predicate 7164 7171	Algunos
+T498	Concept 7172 7180	animales
+T499	Concept 7181 7189	salvajes
+T500	Action 7194 7204	portadores
+T501	Concept 7208 7213	rabia
+T502	Concept 7221 7229	arritmia
+T503	Concept 7233 7238	seria
+T504	Action 7254 7262	necesite
+T505	Concept 7266 7276	marcapasos
+T506	Concept 7277 7285	cardíaco
+T507	Concept 7291 7304	desfibrilador
+T508	Concept 7305 7316	implantable
+T509	Concept 7321 7325	Zika
+T510	Concept 7339 7351	microcefalia
+T511	Concept 7356 7363	defecto
+T512	Concept 7367 7377	nacimiento
+T513	Concept 7378 7383	serio
+T514	Concept 7398 7404	cabeza
+T515	Concept 7412 7419	persona
+T516	Predicate 7429 7432;7433 7440	más pequeña
+T517	Concept 7447 7453	normal
+T518	Action 7463 7472	problemas
+T519	Concept 7476 7481	bebés
+T520	Concept 7488 7494	madres
+T521	Action 7502 7512	infectadas
+T522	Concept 7521 7532	embarazadas
+T523	Concept 7538 7549	analgésicos
+T524	Predicate 7550 7553	más
+T525	Concept 7554 7562	potentes
+T526	Concept 7571 7579	opioides
+T527	Action 7581 7586	Beber
+T528	Concept 7597 7604	alcohol
+T529	Concept 7608 7617	peligroso
+T530	Action 7635 7641	existe
+T531	Action 7645 7656	tratamiento
+T532	Concept 7657 7665	estándar
+T533	Concept 7674 7677	TEA
+T534	Concept 7683 7690;7691 7702	dientes permanentes
+T535	Concept 7703 7711	derechos
+T536	Action 7728 7736	prevenir
+T537	Concept 7737 7746;7747 7755	problemas dentales
+T538	Concept 7762 7768	futuro
+T539	Concept 7781 7795;7796 7804	rehabilitación pulmonar
+T540	Concept 7806 7811	usted
+T541	Action 7815 7824	entrenará
+T542	Concept 7836 7845;7846 7852	ejercicio físico
+T543	Action 7855 7863	aprender
+T544	Concept 7864 7872	técnicas
+T545	Concept 7876 7887	respiración
+T546	Concept 7892 7900	obesidad
+T547	Action 7901 7908	aumenta
+T548	Predicate 7912 7918	riesgo
+T549	Action 7922 7929	padecer
+T550	Concept 7930 7938	diabetes
+T551	Concept 7940 7952;7953 7962	enfermedades cardiacas
+T552	Concept 7964 7972;7973 7983	derrames cerebrales
+T553	Concept 7985 7993	artritis
+T554	Predicate 7996 8003	ciertos
+T555	Concept 8004 8012	cánceres
+T556	Reference 8020 8022	su
+T557	Action 8023 8030	llegada
+T558	Action 8032 8039	informó
+T559	Concept 8046 8056	reporteros
+T560	Concept 8062 8068	Israel
+T561	Concept 8077 8086	auténtico
+T562	Action 8087 8093	aliado
+T563	Concept 8098 8103	nuevo
+T564	Concept 8104 8112	gobierno
+T565	Concept 8113 8122	palestino
+T566	Concept 8128 8142	hipotiroidismo
+T567	Predicate 8146 8149	más
+T568	Concept 8150 8155	común
+T569	Concept 8163 8170	mujeres
+T570	Concept 8179 8187	personas
+T571	Action 8198 8207	problemas
+T572	Concept 8214 8222	tiroides
+T573	Concept 8232 8240	personas
+T574	Predicate 8241 8248	mayores
+T575	Concept 8252 8254;8255 8259	60 años
+T576	Concept 8272 8278;8279 8282;8283 8286;8287 8300;8301 8303;8304 8307;8308 8320	Marcha del Día Internacional de los Trabajadores
+T577	Action 8321 8330	convocada
+T578	Concept 8339 8348;8349 8359	centrales sindicales
+T579	Concept 8360 8371	colombianas
+T580	Concept 8377 8384;8385 8393	partido político
+T581	Concept 8394 8398;8399 8410;8411 8422	Polo Democrático Alternativo
+T582	Concept 8424 8427	PDA
+T583	Action 8440 8450	disturbios
+T584	Concept 8460 8467;8468 8476	Policia Nacional
+T585	Concept 8491 8500;8501 8506;8507 8521	Escuadrón Móvil Antidisturbios
+T586	Concept 8523 8528	ESMAD
+T587	Predicate 8536 8541	grupo
+T588	Concept 8545 8556	anarquistas
+T589	Predicate 8569 8574	entre
+T590	Concept 8579 8592	manifestantes
+T591	Action 8593 8601	lanzando
+T592	Concept 8602 8609	objetos
+T593	Concept 8610 8622	contundentes
+T594	Concept 8627 8634;8635 8643	terapia dirigida
+T595	Action 8644 8651	utiliza
+T596	Concept 8652 8662	sustancias
+T597	Action 8667 8673	atacan
+T598	Concept 8678 8685;8686 8696	células cancerosas
+T599	Action 8699 8707	bloquean
+T600	Action 8711 8722	crecimiento
+T601	Action 8725 8737	diseminación
+T602	Reference 8739 8741	La
+T603	Concept 8742 8752	enfermedad
+T604	Action 8759 8766	afectar
+T605	Predicate 8767 8770	uno
+T606	Predicate 8773 8779	varios
+T607	Concept 8780 8786	huesos
+T608	Predicate 8796 8800	todo
+T609	Concept 8804 8813	esqueleto
+T610	Concept 8815 8819;8820 8825	Ehud Barak
+T611	Concept 8830 8838;8839 8841;8842 8849	Ministro de Defensa
+T612	Concept 8850 8857	israelí
+T613	Action 8858 8862	dijo
+T614	Concept 8871 8879	objetivo
+T615	Action 8883 8892	debilitar
+T616	Concept 8895 8900	Hamás
+T617	Concept 8903 8907	Boca
+T618	Concept 8908 8912	seca
+T619	Action 8919 8928	sensación
+T620	Predicate 8943 8953	suficiente
+T621	Concept 8954 8960	saliva
+T622	Concept 8967 8971	boca
+T623	Concept 8976 8982	retina
+T624	Concept 8990 8994;8995 8997;8998 9004	capa de tejido
+T625	Predicate 9011 9016;9017 9026	parte posterior
+T626	Concept 9031 9034	ojo
+T627	Action 9039 9046	percibe
+T628	Concept 9050 9053	luz
+T629	Action 9056 9061	envía
+T630	Concept 9066 9074	imágenes
+T631	Concept 9078 9085	cerebro
+T632	Action 9095 9102	tomando
+T633	Concept 9103 9118	anticoagulantes
+T634	Action 9120 9128	necesita
+T635	Action 9135 9142	cuidado
+T636	Predicate 9150 9158	cantidad
+T637	Concept 9162 9170;9171 9172	vitamina K
+T638	Action 9177 9184	consume
+T639	Reference 9186 9191	Estos
+T640	Concept 9201 9207	hierro
+T641	Concept 9209 9218	manganeso
+T642	Concept 9220 9225	cobre
+T643	Concept 9227 9231	yodo
+T644	Concept 9233 9237	cinc
+T645	Concept 9239 9246	cobalto
+T646	Concept 9248 9253	flúor
+T647	Concept 9256 9263	selenio
+T648	Reference 9268 9271	ese
+T649	Concept 9272 9280	instante
+T650	Concept 9281 9285	todo
+T651	Action 9294 9301	indicar
+T652	Concept 9306 9312	Brasil
+T653	Action 9319 9326	someter
+T654	Concept 9333 9342	africanos
+T655	Concept 9384 9391	hombres
+T656	Action 9399 9407	contraer
+A16	Uncertain T656
+T657	Concept 9408 9416	clamidia
+T658	Concept 9423 9429	uretra
+T659	Predicate 9434 9442	interior
+T660	Concept 9447 9451	pene
+T661	Concept 9457 9462	recto
+T662	Concept 9468 9476	garganta
+T663	Action 9478 9485	Produce
+T664	Concept 9486 9494	hormonas
+T665	Action 9499 9505	ayudan
+T666	Concept 9509 9515	cuerpo
+T667	Action 9518 9527	funcionar
+T668	Concept 9528 9539	normalmente
+T669	Concept 9556 9564	diabetes
+T670	Predicate 9570 9577	niveles
+T671	Concept 9581 9587	azúcar
+T672	Concept 9591 9598	glucosa
+T673	Concept 9606 9612	sangre
+T674	Predicate 9617 9626	demasiado
+T675	Concept 9627 9632	altos
+T676	Action 9638 9649	dislocación
+T677	Concept 9653 9659	hombro
+T678	Concept 9662 9668	rótula
+T679	Action 9688 9698	dislocarse
+A17	Uncertain T679
+T680	Concept 9703 9711	adelante
+T681	Predicate 9716 9723	mayoría
+T682	Concept 9731 9732;9734 9738	E coli
+T683	Action 9742 9748	causan
+T684	Concept 9749 9758	problemas
+T685	Action 9763 9772	bronceado
+T686	Concept 9776 9786	interiores
+T687	Concept 9806 9815	peligroso
+T688	Concept 9829 9836	jóvenes
+T689	Concept 9838 9846;9847 9852	Graciela Ocaña
+T690	Concept 9854 9862;9863 9865;9866 9871	ministra de Salud
+T691	Concept 9878 9887	Argentina
+T692	Action 9889 9897	renunció
+T693	Concept 9898 9901	hoy
+T694	Action 9921 9933	agravamiento
+T695	Concept 9940 9946;9947 9956	crisis sanitaria
+T696	Action 9973 9979	alerta
+T697	Concept 9983 9987	país
+T698	Action 9992 10006	rehabilitación
+T699	Predicate 10008 10012	tras
+T700	Concept 10016 10025;10026 10041	accidente cerebrovascular
+T701	Action 10048 10054	ayudar
+T702	Concept 10061 10069	personas
+T703	Action 10072 10079	superar
+T704	Concept 10084 10098	discapacidades
+T705	Concept 10115 10124	apoplejía
+T706	Concept 10130 10137	tumores
+T707	Concept 10149 10157	benignos
+T708	Concept 10160 10168	malignos
+T709	Action 10173 10179	acceso
+T710	Concept 10180 10188	limitado
+T711	Concept 10194 10202;10203 10205;10206 10211	atención de salud
+T712	Action 10218 10226	empeorar
+T713	Reference 10231 10236	cosas
+T714	Action 10241 10252	deficiencia
+T715	Concept 10256 10263;10264 10267;10268 10290	glucosa -6- fosfato-deshidrogenasa
+T716	Action 10308 10319	deficiencia
+T717	Concept 10323 10329	G-6-PD
+T718	Concept 10338 10348;10349 10360	enfermedad hereditaria
+T719	Concept 10371 10383	generalmente
+T720	Concept 10391 10398	varones
+T721	Concept 10403 10411;10412 10414;10415 10426	síndrome de Klinefelter
+T722	Concept 10433 10439	cuadro
+T723	Action 10444 10450	ocurre
+T724	Concept 10461 10468	hombres
+T725	Concept 10483 10492;10493 10494	cromosoma X
+T726	Concept 10495 10504	adicional
+T727	Predicate 10511 10518	mayoría
+T728	Concept 10526 10533	células
