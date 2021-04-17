@@ -66,8 +66,8 @@ T35	Concept 472 479	arteria
 T36	Concept 480 488	carótida
 T37	Concept 505 513	síntomas
 A0	Negated T37
-T38	Action 527 541	estrechamiento
-T39	Action 544 551	bloqueo
+T38	Concept 527 541	estrechamiento
+T39	Concept 544 551	bloqueo
 T40	Concept 555 561	severo
 R30	is-a Arg1:T36 Arg2:T35
 R31	in-context Arg1:T34 Arg2:T36
@@ -120,18 +120,19 @@ T62	Concept 897 906	desgarres
 A5	Uncertain T62
 T63	Concept 909 922	obstrucciones
 A6	Uncertain T63
-R51	in-context Arg1:T60 Arg2:T59
-R52	causes Arg1:T60 Arg2:T61
-R53	causes Arg1:T60 Arg2:T62
-R54	causes Arg1:T60 Arg2:T63
+R51	has-property Arg1:T58 Arg2:T59
+R52	in-context Arg1:T60 Arg2:T58
+R53	causes Arg1:T60 Arg2:T61
+R54	causes Arg1:T60 Arg2:T62
+R55	causes Arg1:T60 Arg2:T63
 T64	Concept 928 940	enfermedades
 T65	Concept 962 972	garrapatas
 T66	Concept 992 997	mundo
 A7	Emphasized T66
 T67	Concept 1029 1037	jardines
-R55	causes Arg1:T65 Arg2:T64
-R56	in-place Arg1:T64 Arg2:T66
-R57	in-place Arg1:T64 Arg2:T67
+R56	causes Arg1:T65 Arg2:T64
+R57	in-place Arg1:T64 Arg2:T66
+R58	in-place Arg1:T64 Arg2:T67
 T68	Concept 1043 1051	lágrimas
 T69	Action 1056 1066	producidas
 T70	Concept 1075 1084;1085 1095	glándulas lagrimales
@@ -140,195 +141,190 @@ T72	Action 1119 1124	lleva
 T73	Reference 1125 1130	estas
 T74	Concept 1131 1139	lágrimas
 T75	Concept 1146 1150	ojos
-R58	is-a Arg1:T73 Arg2:T74
-R59	subject Arg1:T72 Arg2:T71
-R60	target Arg1:T72 Arg2:T73
-R61	in-place Arg1:T72 Arg2:T75
-R62	target Arg1:T69 Arg2:T70
-R63	subject Arg1:T69 Arg2:T68
+R59	is-a Arg1:T73 Arg2:T74
+R60	subject Arg1:T72 Arg2:T71
+R61	target Arg1:T72 Arg2:T73
+R62	in-place Arg1:T72 Arg2:T75
+R63	target Arg1:T69 Arg2:T70
+R64	subject Arg1:T69 Arg2:T68
 T76	Concept 1158 1165	laringe
 T77	Concept 1184 1191;1192 1199	cuerdas vocales
 T78	Predicate 1201 1204	dos
-T79	Concept 1205 1211;1212 1222	bandas musculares
-T80	Action 1227 1233	vibran
-T81	Action 1239 1245	emitir
-T82	Concept 1250 1257	sonidos
-R64	domain Arg1:T78 Arg2:T79
-R65	target Arg1:T81 Arg2:T82
-R66	subject Arg1:T80 Arg2:T78
-R67	is-a Arg1:T77 Arg2:T80
-R68	part-of Arg1:T77 Arg2:T76
-R69	causes Arg1:T80 Arg2:T81
-T83	Concept 1269 1276	persona
-T84	Action 1289 1295;1296 1307	activo sexualmente
-T85	Action 1314 1322	contraer
+T79	Concept 1205 1211	bandas
+T80	Concept 1212 1222	musculares
+T81	Action 1227 1233	vibran
+T82	Action 1239 1245	emitir
+T83	Concept 1250 1257	sonidos
+R65	in-context Arg1:T79 Arg2:T80
+R66	domain Arg1:T78 Arg2:T79
+R67	target Arg1:T82 Arg2:T83
+R68	subject Arg1:T81 Arg2:T78
+R69	target Arg1:T81 Arg2:T82
+R70	is-a Arg1:T77 Arg2:T81
+R71	in-place Arg1:T77 Arg2:T76
+T84	Concept 1269 1276	persona
+T85	Concept 1289 1295;1296 1307	activo sexualmente
 T86	Concept 1326 1329	VPH
 A8	Uncertain T86
-T87	Predicate 1356 1362	riesgo
+T87	Concept 1356 1362	riesgo
 A9	Emphasized T87
 T88	Concept 1383 1390;1391 1399	parejas sexuales
 A10	Emphasized T88
-T89	Action 1408 1414	estado
-T90	Concept 1419 1426	alguien
-T91	Concept 1441 1447;1448 1455	muchas parejas
-R70	causes Arg1:T84 Arg2:T85
-R71	causes Arg1:T88 Arg2:T87
-R72	in-context Arg1:T87 Arg2:T85
-R73	subject Arg1:T84 Arg2:T83
-R74	subject Arg1:T85 Arg2:T83
-R75	target Arg1:T85 Arg2:T86
-R76	target Arg1:T89 Arg2:T90
+R72	has-property Arg1:T84 Arg2:T85
+R73	causes Arg1:T85 Arg2:T86
+R74	causes Arg1:T88 Arg2:T87
+R75	in-context Arg1:T87 Arg2:T86
+T89	Concept 1469 1475	drogas
+A11	Emphasized T89
+T90	Concept 1488 1496	problema
+A12	Emphasized T90
+T91	Concept 1500 1505;1506 1513	salud pública
+T92	Action 1518 1524	afecta
+T93	Concept 1542 1553	comunidades
+A13	Emphasized T93
+T94	Concept 1556 1564	familias
+A14	Emphasized T94
+R76	is-a Arg1:T89 Arg2:T90
 R77	in-context Arg1:T90 Arg2:T91
-R78	causes Arg1:T89 Arg2:T87
-T92	Concept 1469 1475	drogas
-A11	Emphasized T92
-T93	Concept 1488 1496	problema
-A12	Emphasized T93
-T94	Concept 1500 1505;1506 1513	salud pública
-T95	Action 1518 1524	afecta
-T96	Concept 1542 1553	comunidades
-A13	Emphasized T96
-T97	Concept 1556 1564	familias
-A14	Emphasized T97
-R79	is-a Arg1:T92 Arg2:T93
-R80	in-context Arg1:T93 Arg2:T94
-R81	subject Arg1:T95 Arg2:T92
-R82	target Arg1:T95 Arg2:T96
-R83	target Arg1:T95 Arg2:T97
-T98	Concept 1583 1591	comienzo
-T99	Action 1596 1607	tratamiento
-T100	Concept 1615 1625	torceduras
-T101	Concept 1632 1644	distensiones
-T102	Action 1662 1668	reposo
-T103	Concept 1673 1677	área
-T104	Concept 1678 1686	afectada
-T105	Concept 1688 1693	hielo
-T106	Concept 1702 1708	vendas
-T107	Action 1711 1721	compresión
-T108	Concept 1726 1730	área
-T109	Concept 1733 1742	medicinas
-R84	in-context Arg1:T103 Arg2:T104
-R85	in-time Arg1:T99 Arg2:T98
-R86	in-place Arg1:T102 Arg2:T103
-R87	target Arg1:T99 Arg2:T100
-R88	target Arg1:T99 Arg2:T101
-R89	part-of Arg1:T102 Arg2:T99
-R90	part-of Arg1:T105 Arg2:T99
-R91	part-of Arg1:T106 Arg2:T99
-R92	in-place Arg1:T107 Arg2:T108
-R93	part-of Arg1:T107 Arg2:T99
-R94	part-of Arg1:T109 Arg2:T99
-T110	Predicate 1744 1751	Algunas
-T111	Concept 1752 1760	personas
-T112	Action 1768 1780	experimentar
-T113	Concept 1781 1789	síntomas
-T114	Predicate 1793 1797	baja
-T115	Concept 1798 1805	presión
-T116	Action 1816 1821;1822 1824;1825 1828	ponen de pie
-T117	Concept 1839 1850	rápidamente
-A15	Emphasized T117
-R95	domain Arg1:T110 Arg2:T111
-R96	in-context Arg1:T116 Arg2:T117
-R97	subject Arg1:T112 Arg2:T110
-R98	arg Arg1:T114 Arg2:T115
-R99	in-context Arg1:T113 Arg2:T114
-R100	target Arg1:T112 Arg2:T113
-R101	causes Arg1:T116 Arg2:T112
-T118	Concept 1855 1860;1861 1873	shock anafiláctico
-T119	Concept 1891 1899;1900 1908	reacción alérgica
-T120	Concept 1909 1914	grave
-T121	Action 1957 1965	picadura
-T122	Concept 1969 1976	insecto
-T123	Concept 1984 1991	persona
-T124	Action 1999 2007	alérgica
-T125	Reference 2010 2012	él
-R102	in-context Arg1:T119 Arg2:T120
-R103	is-a Arg1:T125 Arg2:T122
-R104	subject Arg1:T124 Arg2:T123
-R105	target Arg1:T124 Arg2:T125
-R106	subject Arg1:T121 Arg2:T122
-R107	target Arg1:T121 Arg2:T124
-R108	causes Arg1:T121 Arg2:T119
-R109	entails Arg1:T119 Arg2:T118
-T126	Concept 2017 2027;2028 2040;2041 2048	enfermedad inflamatoria pélvica
-T127	Concept 2050 2053	EIP
-T128	Action 2062 2071	infección
-T129	Action 2074 2085	inflamación
-T130	Concept 2090 2095	útero
-T131	Concept 2097 2104	ovarios
-T132	Predicate 2107 2112	otros
-T133	Concept 2113 2120;2121 2134;2135 2144	órganos reproductivos femeninos
-*	same-as T126 T127
-R110	domain Arg1:T132 Arg2:T133
-R111	target Arg1:T128 Arg2:T130
-R112	target Arg1:T128 Arg2:T131
-R113	target Arg1:T128 Arg2:T132
-R114	target Arg1:T129 Arg2:T130
-R115	target Arg1:T129 Arg2:T131
-R116	target Arg1:T129 Arg2:T132
-R117	is-a Arg1:T126 Arg2:T128
-R118	is-a Arg1:T126 Arg2:T129
-T134	Concept 2150 2155;2156 2163	ondas sonoras
-T135	Action 2164 2170	entran
-T136	Concept 2178 2182;2183 2190	oído externo
-R119	subject Arg1:T135 Arg2:T134
-R120	in-place Arg1:T135 Arg2:T136
-T137	Concept 2195 2201	hollín
-T138	Action 2202 2210	cubierto
-T139	Concept 2215 2220	savia
-T140	Action 2225 2230	vuela
-T141	Concept 2237 2241	aire
-T142	Action 2248 2256	penetrar
-T143	Concept 2264 2268	ojos
-T144	Concept 2273 2278	nariz
-T145	Concept 2283 2291	garganta
-T146	Concept 2297 2304;2305 2317	sistema respiratorio
-R121	subject Arg1:T138 Arg2:T137
-R122	target Arg1:T138 Arg2:T139
-R123	subject Arg1:T140 Arg2:T138
-R124	in-place Arg1:T140 Arg2:T141
-R125	subject Arg1:T142 Arg2:T140
-R126	in-place Arg1:T142 Arg2:T143
-R127	in-place Arg1:T142 Arg2:T144
-R128	in-place Arg1:T142 Arg2:T145
-R129	in-place Arg1:T142 Arg2:T146
-T147	Action 2322 2329	pérdida
-T148	Concept 2333 2340;2341 2351	células cerebrales
-T149	Concept 2383 2390;2391 2399	derrame cerebral
-T150	Action 2407 2414	afectar
-T151	Concept 2418 2427	capacidad
-T152	Action 2431 2437	pensar
-T153	Concept 2442 2450	claridad
-R130	in-context Arg1:T152 Arg2:T153
-R131	in-context Arg1:T151 Arg2:T152
-R132	target Arg1:T150 Arg2:T151
-R133	target Arg1:T147 Arg2:T148
-R134	causes Arg1:T149 Arg2:T147
-R135	causes Arg1:T147 Arg2:T150
-T154	Reference 2452 2457	Estos
-T155	Concept 2458 2470	medicamentos
-T156	Concept 2482 2491	pastillas
-T157	Concept 2493 2501	líquidos
-T158	Concept 2504 2511	parches
-R136	is-a Arg1:T154 Arg2:T155
-R137	is-a Arg1:T156 Arg2:T154
-R138	is-a Arg1:T157 Arg2:T154
-R139	is-a Arg1:T158 Arg2:T154
-T159	Concept 2517 2525;2526 2533	glóbulos blancos
-T160	Action 2534 2540	ayudan
-T161	Concept 2546 2555	organismo
-T162	Action 2558 2566	combatir
-T163	Concept 2567 2578	infecciones
-R140	subject Arg1:T162 Arg2:T161
-R141	target Arg1:T162 Arg2:T163
-R142	subject Arg1:T160 Arg2:T159
-R143	target Arg1:T160 Arg2:T162
-T164	Action 2583 2593	suministro
-T165	Concept 2597 2601	agua
-T166	Concept 2602 2613	contaminada
-T167	Action 2627 2638	infecciones
-T168	Concept 2643 2651	giardias
-R144	target Arg1:T167 Arg2:T168
-R145	in-context Arg1:T165 Arg2:T166
-R146	target Arg1:T164 Arg2:T165
-R147	causes Arg1:T164 Arg2:T167
+R78	subject Arg1:T92 Arg2:T89
+R79	target Arg1:T92 Arg2:T93
+R80	target Arg1:T92 Arg2:T94
+T95	Concept 1583 1591	comienzo
+T96	Concept 1596 1607	tratamiento
+T97	Concept 1615 1625	torceduras
+T98	Concept 1632 1644	distensiones
+T99	Concept 1662 1668	reposo
+T100	Concept 1673 1677	área
+T101	Concept 1678 1686	afectada
+T102	Concept 1688 1693	hielo
+T103	Concept 1702 1708	vendas
+T104	Concept 1711 1721	compresión
+T105	Concept 1726 1730	área
+T106	Concept 1733 1742	medicinas
+R81	has-property Arg1:T100 Arg2:T101
+R82	in-time Arg1:T96 Arg2:T95
+R83	in-place Arg1:T99 Arg2:T100
+R84	in-context Arg1:T96 Arg2:T97
+R85	in-context Arg1:T96 Arg2:T98
+R86	part-of Arg1:T99 Arg2:T96
+R87	part-of Arg1:T102 Arg2:T96
+R88	part-of Arg1:T103 Arg2:T96
+R89	in-context Arg1:T104 Arg2:T105
+R90	part-of Arg1:T104 Arg2:T96
+R91	part-of Arg1:T106 Arg2:T96
+T107	Predicate 1744 1751	Algunas
+T108	Concept 1752 1760	personas
+T109	Action 1768 1780	experimentar
+T110	Concept 1781 1789	síntomas
+T111	Predicate 1793 1797	baja
+T112	Concept 1798 1805	presión
+T113	Action 1816 1821;1822 1824;1825 1828	ponen de pie
+T114	Concept 1839 1850	rápidamente
+A15	Emphasized T114
+R92	domain Arg1:T107 Arg2:T108
+R93	in-context Arg1:T113 Arg2:T114
+R94	subject Arg1:T109 Arg2:T107
+R95	arg Arg1:T111 Arg2:T112
+R96	in-context Arg1:T110 Arg2:T111
+R97	target Arg1:T109 Arg2:T110
+R98	causes Arg1:T113 Arg2:T109
+T115	Concept 1855 1860;1861 1873	shock anafiláctico
+T116	Concept 1891 1899;1900 1908	reacción alérgica
+T117	Concept 1909 1914	grave
+T118	Action 1957 1965	picadura
+T119	Concept 1969 1976	insecto
+T120	Concept 1984 1991	persona
+T121	Action 1999 2007	alérgica
+T122	Reference 2010 2012	él
+R99	in-context Arg1:T116 Arg2:T117
+R100	is-a Arg1:T122 Arg2:T119
+R101	subject Arg1:T121 Arg2:T120
+R102	target Arg1:T121 Arg2:T122
+R103	subject Arg1:T118 Arg2:T119
+R104	target Arg1:T118 Arg2:T121
+R105	causes Arg1:T118 Arg2:T116
+R106	entails Arg1:T116 Arg2:T115
+T123	Concept 2017 2027;2028 2040;2041 2048	enfermedad inflamatoria pélvica
+T124	Concept 2050 2053	EIP
+T125	Action 2062 2071	infección
+T126	Action 2074 2085	inflamación
+T127	Concept 2090 2095	útero
+T128	Concept 2097 2104	ovarios
+T129	Predicate 2107 2112	otros
+T130	Concept 2113 2120;2121 2134;2135 2144	órganos reproductivos femeninos
+*	same-as T123 T124
+R107	domain Arg1:T129 Arg2:T130
+R108	target Arg1:T125 Arg2:T127
+R109	target Arg1:T125 Arg2:T128
+R110	target Arg1:T125 Arg2:T129
+R111	target Arg1:T126 Arg2:T127
+R112	target Arg1:T126 Arg2:T128
+R113	target Arg1:T126 Arg2:T129
+R114	is-a Arg1:T123 Arg2:T125
+R115	is-a Arg1:T123 Arg2:T126
+T131	Concept 2150 2155;2156 2163	ondas sonoras
+T132	Action 2164 2170	entran
+T133	Concept 2178 2182;2183 2190	oído externo
+R116	subject Arg1:T132 Arg2:T131
+R117	in-place Arg1:T132 Arg2:T133
+T134	Concept 2195 2201	hollín
+T135	Action 2202 2210	cubierto
+T136	Concept 2215 2220	savia
+T137	Action 2225 2230	vuela
+T138	Concept 2237 2241	aire
+T139	Action 2248 2256	penetrar
+T140	Concept 2264 2268	ojos
+T141	Concept 2273 2278	nariz
+T142	Concept 2283 2291	garganta
+T143	Concept 2297 2304;2305 2317	sistema respiratorio
+R118	subject Arg1:T135 Arg2:T134
+R119	target Arg1:T135 Arg2:T136
+R120	subject Arg1:T137 Arg2:T135
+R121	in-place Arg1:T137 Arg2:T138
+R122	subject Arg1:T139 Arg2:T137
+R123	in-place Arg1:T139 Arg2:T140
+R124	in-place Arg1:T139 Arg2:T141
+R125	in-place Arg1:T139 Arg2:T142
+R126	in-place Arg1:T139 Arg2:T143
+T144	Action 2322 2329	pérdida
+T145	Concept 2333 2340;2341 2351	células cerebrales
+T146	Action 2374 2379	sufre
+T147	Concept 2383 2390;2391 2399	derrame cerebral
+T148	Action 2407 2414	afectar
+T149	Concept 2418 2427	capacidad
+T150	Action 2431 2437	pensar
+T151	Concept 2442 2450	claridad
+R127	in-context Arg1:T150 Arg2:T151
+R128	in-context Arg1:T149 Arg2:T150
+R129	target Arg1:T148 Arg2:T149
+R130	target Arg1:T144 Arg2:T145
+R131	target Arg1:T146 Arg2:T147
+R132	entails Arg1:T146 Arg2:T144
+R133	subject Arg1:T148 Arg2:T144
+T152	Reference 2452 2457	Estos
+T153	Concept 2458 2470	medicamentos
+T154	Concept 2482 2491	pastillas
+T155	Concept 2493 2501	líquidos
+T156	Concept 2504 2511	parches
+R134	is-a Arg1:T152 Arg2:T153
+R135	is-a Arg1:T154 Arg2:T152
+R136	is-a Arg1:T155 Arg2:T152
+R137	is-a Arg1:T156 Arg2:T152
+T157	Concept 2517 2525;2526 2533	glóbulos blancos
+T158	Action 2534 2540	ayudan
+T159	Concept 2546 2555	organismo
+T160	Action 2558 2566	combatir
+T161	Concept 2567 2578	infecciones
+R138	subject Arg1:T160 Arg2:T159
+R139	target Arg1:T160 Arg2:T161
+R140	subject Arg1:T158 Arg2:T157
+R141	target Arg1:T158 Arg2:T160
+T162	Action 2583 2593	suministro
+T163	Concept 2597 2601	agua
+T164	Concept 2602 2613	contaminada
+T165	Action 2627 2638	infecciones
+T166	Concept 2643 2651	giardias
+R142	target Arg1:T165 Arg2:T166
+R143	in-context Arg1:T163 Arg2:T164
+R144	target Arg1:T162 Arg2:T163
+R145	causes Arg1:T162 Arg2:T165
