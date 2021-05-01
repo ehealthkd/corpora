@@ -163,19 +163,19 @@ def align(gold_sentences: List[Sentence], submit_sentences: List[Sentence]):
         # generamos una oración sin anotar con el mismo text del gold
         submit = Sentence(gold.text)
         gold_sentences.pop(0)
-    
-        warnings.warn("Match not found for gold sentence: %r" % gold.text)
+
+        # warnings.warn("Match not found for gold sentence: %r" % gold.text)
         yield (gold, submit)
 
     while gold_sentences:
         # todas estas oraciones faltan por anotar
         gold = gold_sentences.pop(0)
-        warnings.warn("Match not found for gold sentence (submission ended): %r" % gold.text)
+        # warnings.warn("Match not found for gold sentence (submission ended): %r" % gold.text)
         yield (gold, Sentence(gold.text))
 
     while submit_sentences:
         submit = submit_sentences.pop(0)
-        warnings.warn("Spurious submission sentence not considered (gold ended): %r" % submit.text)
+        # warnings.warn("Spurious submission sentence not considered (gold ended): %r" % submit.text)
 
 
 def match_relations(gold, submit, data, skip_same_as=False, propagate_error=True):
@@ -375,11 +375,12 @@ def main(gold: Path, submit: Path, verbose:bool, scenarios: List[int], runs: Lis
 
     print()
     report_main(runs_data, prefix)
+    return runs_data
 
 
 def report_main(runs_data, prefix):
     keys = { f"scenario{s}_{metric}":0 for s in [1,2,3] for metric in ["f1", "precision", "recall", "best"] }
-    
+
     for run_id, run_data in runs_data.items():
         for scn_id, scn_data in run_data.items():
             if scn_data["f1"] <= keys[f"{scn_id}_f1"]:
@@ -387,7 +388,7 @@ def report_main(runs_data, prefix):
 
             for metric in scn_data:
                 keys[f"{scn_id}_{metric}"] = scn_data[metric]
-            
+
             keys[f"{scn_id}_best"] = run_id
 
     for k,v in keys.items():
@@ -431,7 +432,7 @@ if __name__ == "__main__":
     parser.add_argument("--runs", type=int, nargs="+", help="Which runs to evaluate.", default=[1,2,3])
     parser.add_argument("--verbose", action="store_true")
     parser.add_argument("--prefix", help="Prefix to report scores, e.g., 'training_'...", default="")
-    
+
     args = parser.parse_args()
-    
+
     main(Path(args.gold), Path(args.submit), args.verbose, args.scenarios, args.runs, args.prefix)

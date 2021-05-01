@@ -21,7 +21,8 @@ class EntityAnnotation:
 
     @staticmethod
     def parse(line):
-        id, mid, text = line.strip().split("\t")
+        id, mid, *text = line.strip().split("\t")
+        text = " ".join(text)
         typ, spans = mid.split(" ", 1)
         spans = [tuple(s.split()) for s in spans.split(";")]
         return EntityAnnotation(id, typ, spans, text)
@@ -281,23 +282,27 @@ class AnnFile:
             ann.offset_id()
 
     def _parse(self, line):
-        if line.startswith("T"):
-            return EntityAnnotation.parse(line)
+        try:
+            if line.startswith("T"):
+                return EntityAnnotation.parse(line)
 
-        if line.startswith("R"):
-            return RelationAnnotation.parse(line)
+            if line.startswith("R"):
+                return RelationAnnotation.parse(line)
 
-        if line.startswith("*"):
-            return SameAsAnnotation.parse(line)
+            if line.startswith("*"):
+                return SameAsAnnotation.parse(line)
 
-        if line.startswith("E"):
-            return EventAnnotation.parse(line)
+            if line.startswith("E"):
+                return EventAnnotation.parse(line)
 
-        if line.startswith("A"):
-            return AttributeAnnotation.parse(line)
+            if line.startswith("A"):
+                return AttributeAnnotation.parse(line)
 
-        if line.startswith("#"):
-            return None
+            if line.startswith("#"):
+                return None
+        except:
+            warnings.warn("Error parsing line %r" % line)
+            raise
 
         raise ValueError("Unknown annotation: %s" % line)
 
@@ -976,6 +981,11 @@ class CollectionV2Handler(CollectionHandler):
                 tid = int(ann.id[1:])
                 spans = [(int(start), int(end)) for start, end in ann.spans]
                 sid, spans = cls._get_relative_ann(spans, sentences_length)
+
+                if not 0 <= sid < len(sentences):
+                    warnings.warn("Cannot determine sentence for Entity %s" % tid)
+                    continue
+
                 sentence = sentences[sid]
                 keyphrase = Keyphrase(sentence, ann.type, tid, spans)
                 sentence.keyphrases.append(keyphrase)
