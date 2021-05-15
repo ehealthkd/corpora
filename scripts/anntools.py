@@ -944,11 +944,21 @@ class CollectionV2Handler(CollectionHandler):
         ann_file = cls._load_ann(finput)
 
         def add_relation(source_id, destination_id, ann_type, id_to_keyphrase):
-            source = id_to_keyphrase[source_id]
-            destination = id_to_keyphrase[destination_id]
-            if source.sentence != destination.sentence:
+            source = id_to_keyphrase.get(source_id)
+            destination = id_to_keyphrase.get(destination_id)
+            if source is None:
                 warnings.warn(
-                    "In file '%s' relation '%s' between %i and %i crosses sentence boundaries and has been ignored."
+                "In file '%s', ignoring relation '%s' between %r (unknown reference) and %r"
+                    % (finput, ann_type, source_id, destination_id)
+                )
+            elif destination is None:
+                warnings.warn(
+                "In file '%s', ignoring relation '%s' between %r and %r (unknown reference)"
+                    % (finput, ann_type, source_id, destination_id)
+                )
+            elif source.sentence != destination.sentence:
+                warnings.warn(
+                    "In file '%s' relation '%s' between %r and %r crosses sentence boundaries and has been ignored."
                     % (finput, ann_type, source_id, destination_id)
                 )
             else:

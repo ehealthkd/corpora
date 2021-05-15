@@ -1,0 +1,150 @@
+The current outbreak of coronavirus disease-2019 (COVID-19) caused by a novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is posing a serious threat to public health
+The first batch of clinical data reports of SARS-CoV-2 infection cases in China revealed "cytokine storms" in critically ill patients
+The results described above strongly supporting the action of positive selection in spike gene during the recent evolution of SARS-CoV-2 and RaTG13
+These results confirm the interaction of CD147 and SP, indicating a novel potential route for SARS-CoV-2 to invade host cells
+Children with chronic kidney disease (CKD) are a high-risk group highly susceptible to SARS-CoV-2 due to underlying disease and poor immunity
+SARS-CoV-2 ORF9b protein with a mean PPID of 10.31% has a N-terminal (1-10 residues) predicted disordered segment
+In particular, as compared to the DMSO control group, both CVL218 and remdesivir showed potent antiviral activities during the full-time procedure of the SARS-CoV-2 infection in Vero E6 cells
+Thus, S416 turns to be the best efficient chemical so far against SARS-CoV-2 at the cellular level
+SARS-CoV-2 is highly infectious
+The SARS-CoV-2 virus causes severe respiratory disease that can quickly spread from person to person and in some cases lead to death.
+Whereas core genomic features are required for the virus to be functional, accessory features are candidates to provide insights into the drivers of the unique capacities of SARS-CoV-2 explaining its spread and virulence
+The virtual elimination of HCoV-OC43 and HCoV-HKU1 would be possible if SARS-CoV-2 induced 70% cross immunity against them, which is the same estimated level of cross-immunity that HCoV-OC43 induces against HCoV-HKU1.
+These results confirm that SARS-CoV-2 uses the canonical TRS-mediated 144 mechanism for discontinuous transcription to produce major sgRNAs
+CA12 has been linked to drug resistance in multiple cancer types (Boyd et al., 2017; Doyen et al., 2013; Kopecka et al., 2016) and we have previously demonstrated that it is overexpressed in FLC (Dinh et al., 2017)
+Some patients also received glucocorticoid and/or intravenous immunoglobulin administration
+Clearly, according to the PCR product intensity, after several passages with Tupanvirus, the amount of mutant Guarani DNA evolved to decrease
+Both CTD 4A and CTD 4E showed defects in binding to O-MAD2 and C-MAD2
+Thus, SARS-COV-2 infection may not be the major reason related to liver injury
+Our results demonstrate the mean PPID of SARS-CoV-2, Human SARS, and Bat CoV to be equal to 1.96%
+Currently, the main known transmission route of SARS-CoV-2 is through respiratory air droplets
+The main manifestations of SARS-CoV-2 infection include fever, dry cough, weakness, and breathing difficulty
+Receptor-dependent viral entry is the first step of SARS-CoV-2 infection.
+CD147 is closely associated with SARS-CoV-2 invasion for host cells, and SP binds to cellular receptors to mediate infection of host cells, leading to the question whether there is some author/funder
+SARS-CoV-2 has a disordered segment from 168-289 residues while Human SARS has predicted to have an unstructured segment from 145-289 residues
+Carriage is a dynamic process involving fluctuations of species and strains
+ACE2 is mainly expressed in AT2 cells and also detected in AT1 cells, airway epithelial cells, fibroblasts, endothelial cells, and macrophages
+Furthermore, we have previously shown that CCoV strain A76 also has a recombinant S 103 protein, a product of recombination between serotype I and II CCoV sequences
+Our previous work demonstrating that monocytes and macrophages can produce pro-inflammatory cytokine during murine hepatitis virus strain-3 infection, and whether SARS-CoV-2 also triggers cytokine release from monocytes and macrophages in COVID-19 patients need further investigation and such work is in progress in our hospital
+Both COVID-19 and SARS-2002 interfaces contain long flexible loops and nine aromatic residues (Tyr, Trp, Phe) in the interface with ACE2
+In the crystal packing of the NSP7-NSP8 structure, the authors hypothesized the formation of a hetero-hexadecamer protein complex
+Based on the above research evidence, we have reason to speculate that families of HCWs may also suffer from similar psychological problems to HCWs during COVID-19 epidemic
+Over 78% of the HCWs exhibited a positive perception of COVID-19
+Obviously, more patients had cardiovascular disease in heart failure group than that in COVID-19 group
+The severe situation of COVID-19 is also causing HCWs' mental health problems such as stress, anxiety and depressive symptoms in China
+COVID-19 has spread rapidly since it was first identified in Wuhan and has been shown to have a wide spectrum of severity as SARS-CoV-2 binds to ACE2 receptors in 10-20 fold higher affinity than SARS-CoV binds to the same receptors
+New genes; ORF8 and ORF6; were found inserted in COVID-19 which were absent in HCov-HKU1 that might be acquired by the horizontal gene transmission
+Genetic analysis of COVID-19 revealed that the virus was similar to severe acute respiratory syndrome coronavirus (SARS-CoV)
+Due to similarities with the Coronavirus responsible for SARS and COVID-19, we hypothesize that in addition to improve the oxygenation of the severe cases, iNO gas retains potent antiviral activity against 2019-nCoV responsible for SARS-CoV-2
+Therefore, we speculate that persisting decrease of lymphocytes may be an indicator of severe disease, rather than a criterion for the diagnosis of COVID-19
+According to all models, temperature increases the doubling time, which means that it delays the spread of COVID-19
+Fever is less widespread amongst those infected with COVID-19 than those with SARS-CoV (99%) and MERS-CoV (98%)
+Our results show the incubation mean and median of COVID-19 are 5.84 and 5.0 days respectively and there is a statistical significance with the role of gender
+Whereas positive SARS-CoV-2 detection in clinical specimens from the upper respiratory tract has been described , these observations do not address principal differences between SARS and COVID-19 in terms of clinical pathology
+Among these pathways, the interferon-MAPK signaling pathway was the major blood immune response for COVID-19 infection
+During epidemic period, it will be a great challenge for doctors to identify COVID-19 pneumonia from heart failure patients at the initial contact
+Only samples containing COVID-19, but not MERS, BtCoV, or MHV, had positive RT-LAMP reactions indicating specificity of the reaction for COVID-19
+Unlike those without pneumonia, one-third of COVID-19 patients with pneumonia had very low account (<190/µL) of CD8 + T cells
+In conclusion, COVID-19 affects a wide-range of patients, from youth to the elderly
+All these data indicated that COVID-19 could cause multiple organic injury
+COVID-19 spreads from human to human, therefore in addition to isolation of people, social avoidance and quarantine policies, faster detection of infected cases should reduce further growth
+Taken together, we conclude that T cells are decreased and exhausted in patients with COVID-19.
+The increased lung macrophage population was present in severe COVID-19 patients
+Firstly, COVID-19 has a relatively long incubation period, which causes a time delay between real dynamic and the dailyobserved case numbers
+Implications of all the available evidence: COVID-19 is currently exhibiting sustained transmission in China
+The pathological process of severe COVID-19 pneumonia is the inflammation reaction characterized by destruction of deep airway and alveolar
+COVID-19 has currently spread to 85 countries and most national authorities have failed to keep it's rapid spread contained
+We assumed that it might be related to bystander activation induced by hyper inflammation, or a delayed response to the infection in severe COVID-19
+The epidemiological curves of COVID-19 in China showed the progression of illness in the outbreak over time from December 8, 2019 up to February 11, 2020, 11 when there were a total of 72314 confirmed cases as the geo-temporal spread of COVID- 19
+Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels
+In addition to the diagnosis value of Ab test, our study revealed a strong positive correlation between clinical severity and antibody titer since 2-week after illness onset, for the first time in COVID-19 patients
+In this study, the median age of 116 COVID-19-confirmed patients was 54 years (IQR, 38-69; range 20-95 years), of which 67 (57.8%) were male
+None of our cases had severe respiratory illness requiring non-invasive or mechanical ventilation, suggesting it will be rare that patients meeting the definition of a suspected case will require enhanced care, at least while COVID-19 itself remains rare in the UK
+Similar to the 2002/2003 outbreak of SARS, severity of COVID-19 disease is associated with increased age and/or a comorbidity, although severe disease is not limited to these risk groups
+The existing spread of COVID-19 is faster than SARS partially because it has more complicate spread dynamics
+COVID-19 is apparently more contagious than SARS and, without protection, people can be easily infected by close contact
+Interestingly, there were 24 (45%) COVID-19 patients with elevation in the levels of one or more myocardial enzymes and markers of myocardial damage whose features did not meet the strict definition of myocardial injury, with most of them having the common NCP type and experiencing quick recovery; however, 58.33% of these patients exhibited LV dysfunction on echo, and long-term outcomes should be observed via follow-up in a future study
+We demonstrate here that COVID-19 patients have very high levels of serum IL-10 following SARS-CoV-2 infection, while also displaying high levels of the PD-1 and Tim-3 exhaustion markers on their T cells, suggesting that IL-10 might be mechanistically responsible
+By assuming these rates of early epidemic growth, we estimate that 130 cities in China have ≥50% chance of having a COVID-19 case imported from Wuhan in the 3 weeks preceding the quarantine
+In our survey, we found that although 81.1% of the parents were paying attention to the COVID-19 epidemic and the situation of the CKD itself, only 4.32% planned to adjust the medication dosage based on their previous medical knowledge and experience
+As mentioned in previous studies, the severity of lymphocytopenia might indicate the severity of COVID-19, under the assumption of SARS-CoV-2 viral could attack and destroy the lymphocyte targetedly
+In a recent analysis, of the 44,672 confirmed COVID-19 cases in China, only 2.1% were in pediatric patients (≤19 years of age)
+Moverever, the levels of elevated ALT and AST are generally not high on admission in our study, indicating the COVID-19 -related liver injury is not serious at the initial stage of infection
+Regarding to laboratory tests, consistent with most reports, peripheral lymphocytopenia is the most crucial and common feature for COVID-19 infection
+Besides, nearly half of COVID-19 patients may not have fever at admission(6) and the lymphocyte count in patients with heart failure can also be decreased
+For a scenario such as the current COVID-19 outbreak, there is unfortunately significant morbidity and mortality, and it is heterogeneously distributed between age groups
+The effective reproductive number, R, of COVID-19 in Hubei was in a range of 2.1 to 4.2 in scenarios based on different assumptions and data sources
+Different with heart failure, COVID-19 was characterized by an inflammatory pulmonary edema and alveolar damage
+Logistic regression analysis indicated that NCP severity was a risk factor for AMI in COVID-19 patients
+Other significant parameters, age and meaningful lower respiratory symptoms, were also included into the COVID-19 EWS
+A high correlation of blood lymphocytes with the disease progression suggested that lymphocyte deficiency or incapacity is the key cellular pathology of COVID-19
+The results also indicate that the relationship between the severity of COVID-19 in a location and life satisfaction depends on individuals' level of exercise, but in a direction opposite to our expectation
+As for COVID-19, several studies have described clinical manifestations including respiratory symptoms, myalgia and fatigue
+The daily statistics showed that lockdown are effective in reduction of incidence of confirmed cases with COVID-19 after about 11 days in china
+Whatever the case, lymphopenia is an indicator of severe COVID-19
+However, whether the limited number of pediatric COVID-19 cases is due to less susceptibility or milder presentation leading to missed detection remains unknown
+The COVID-19 had been affirmed to have human-to-human transmissibility [3] and has now spread worldwide, which raised high attention not only within China but internationally
+The high risk factors of cardiac injury including tachycardia, TnI elevation and low EAT density in CT scan, have been observed in the severe and critical COVID-19 patients
+We found statistically significant evidence of positive diversifying selection (~7% of S -gene sites) along the branch leading to COVID-19
+In addition, another explanation is that some COVID-19 patients may have a past history of chronic kidney disease (CKD) and CKD patients have a proinflammatory milieu and functional defects in innate and adaptive immune cell populations
+The levels of PCT, a marker suggesting the bacterial infection, were not elevated in the patients with COVID-19, suggesting the viral-mediated pneumonia rather than bacteria
+We conclude that a significant reduction of COVID-19 cases is achievable only through a systematic package consisting of enhanced control measures including self-isolation / self-production , effective quarantine and rapid detection / testing
+The true CFR of COVID-19 in China except Hubei Province 137 should fall between 0.8% and 0.9%
+Greater encouragement from health authorities is needed to assimilate COVID-19-related knowledge among HCWs, including doctors
+Interestingly, the numbers of total T cells, CD4 + T and CD8 + T cells are negatively correlated to levels of TNF-α, IL-6 and IL-10, respectively (Figure 2B) , suggesting these cytokines promote T cells decrease in COVID-19 patients
+Unlike pneumonia caused by other pathogens, COVID-19 has some unique characteristics on the CT scan
+These results corresponded to a significantly increased risk of blood group A for COVID-19 with an OR of 1.279 (95% CI Table 1 )
+In general, COVID-19 in severe cases progresses rapidly to lethal complications (ARDS, septic shock, acute cardiac injury, refractory metabolic acidosis and so on), even leading to death
+According to the CT reports, if a CT scan was COVID-positive, its ground-truth label was 1; otherwise, the label was 0
+We next examined 113 patients with COVID-19 from another hospital in Wuhan City, the Renmin Hospital of Wuhan University, and found a similar risk distribution trend of ABO blood groups for the infection
+For a given COVID-19 case with symptom onset on the t-th day, the number of secondary cases follows a negative binomial (NB) distribution with a mean at Reff(t) and a dispersion parameter at k
+Moreover, conjunctival congestion and positive RT-PCR in pharyngeal swabs were found at the same time in four COVID-19 patients (cases 11, 20, 23, 24) who reported no eye disease history
+The 3D lung mask of an input chest CT volume helped to reduce background information and better detect COVID-19
+According to these findings, the fewer the TCR clones, the more severe the COVID-19 condition
+In conclusion, we suggest that in a scenario where containment is not possible and it is necessary to allow some infections to occur to achieve population immunity, interventions that protect vulnerable populations from getting infected should be given the highest priority, followed by interventions targeting the general population, and finally those targeting the least vulnerable, which for COVID-19 seem to be children
+SARS-CoV-2 is the causative viral pathogen of COVID-19 of which the outbreaks resulted in 106,893 confirmed cases involving 3,639 deaths over 103 countries, areas or territories as of 07 March 2020
+Other infections may therefore exacerbate COVID-19
+A recent study reported that the 82.1% of COVID-19 cases displayed low circulating lymphocyte counts
+Through epidemiological investigation, we observed a typical asymptomatic transmission to the cohabiting family members, which even caused severe COVID-19 pneumonia
+Other symptoms included shortness of breath, myalgia or arthralgia, sore throat, nasal symptoms and diarrhea ( Blood routine showed that decreased lymphocyte count was present in 38.1% of the COVID-19 patients
+As the number of hospitalised COVID-19 cases continues to increase, hospitals will increasingly need to ration limited resources and improve clinical pathways to effectively prioritise patients with greatest clinical need
+While RT-PCR-based methods have been widely used in COVID-19 diagnosis, their application in accurate diagnosis of viral infection and epidemic control is severely hampered by their laborious and time-consuming sample processing steps
+Importantly, we identified N8R and NLR as powerful prognostic factors for early identification of severe COVID-19 cases
+This is critical since COVID-19 infection can rapidly progress from hospital admission to ARDS in as few as 2 days, and COVID-19 infection can be fatal
+Consistent with this report, we here also found that the secretion of cytokines including TNF-α, IL-6 and IL-10 was increased in COVID-19 patients
+The signal corresponding to ubiquitin was elevated in both wild type and TRIM25 KO cells
+Patients who required ICU care just presented 8.65%
+Previous studies had shown that SARS-CoV 3a protein can up regulate the expression of fibrinogen in lung epithelial cells
+Despite clinical recovery, SARS-CoV-2 RNA remained detectable by real time RT-20 PCR in throat and rectal swabs until day 11 and 18 of hospitalization, respectively
+The SEIR-QD and SEIR-PO models are suitable for modeling COVID-19 epidemics
+People with blood group A have a significantly higher risk for acquiring COVID-19 compared with non-A blood groups, whereas blood group O has a significantly lower risk for the infection compared with non-O blood groups
+Conversely, school closures may be implemented earlier in COVID-19 outbreaks, which may lead to greater levels of prevented cases
+Approximately 20% of allied health workers believed that the flu vaccine is sufficient for COVID-19 prevention
+The COVID-19 spread even shows that persons without any symptoms or clinically negative in infection can still spread it to others
+It is believed that the primary transmission mode of COVID-19 is through large respiratory droplets and close contact, although there is limited data that indicates that it may also spread through indirect contact with contaminated environments and aerosols
+Extensive mutations, insertion and deletion were discovered in COVID-19 strain using the comparative sequencing
+Total T cell number was significantly decreased in COVID-19 patients, but no significant difference was observed between mild and severe patients
+The further impact of COVID-19 on patients' kidney function, especially the incidence of chronic kidney disease in these patients should be the focus of future research
+The COVID-19 virus is able to establish between human-to-human transmission and is currently spreading from Wuhan to many nearby 268 cities and countries
+A new study revealed that the reproductive number of COVID-19 is up to 3.28
+The CoViD-19 outbreak has become increasingly severe, and no drugs so far have proved capable of stemming the viral growth
+Therefore, the increase of COVID-19 mortality may also be related to the lower humidity in winter
+If asymptomatic infections are more persistent than symptomatic ones, the mean generation interval for COVID-19 could be longer than estimated from symptomatic cases alone
+The protection, maintenance or promotion of lymphocyte levels might have a good effect on the prevention and treatment of COVID-19
+Therefore, temperature screening in the high-risk 56 population is important for early identification of COVID-19 infection and thereby reducing the risk of cross infection
+Researchers have found that the new SARS-CoV-2 and SARS coronaviruses invade human cells in target tissues in a similar manner via high-affinity binding to angiotensin-converting enzyme 2 (ACE2)
+Novel coronaviruses (COVID-19) , which was found in Wuhan, China in December 2019 presents an acute public health threat to the whole world
+The prevalence of COVID-19 in cases with CT-confirmed pneumonia sent for 2019-nCoV testing was 23.9% (21/88)
+This yields an R0 above 2, comparable to current estimates for COVID-19
+Clinical studies conducted on hospitalised cases show that the onset of COVID-19 is associated with symptoms commonly associated with viral pneumonia, most commonly fever, cough/sore throat and myalgia/fatigue
+We estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data
+Social distancing, including school closures, can limit COVID-19 cases
+Preventing recognition or blocking the occurrence of inflammatory action, new drugs development on immune regulation, might be new breakthroughs in the control of COVID-19 pneumonia
+A novel coronavirus disease (COVID-19) outbreak due to SARS-CoV-2 infection occurred in China in late-December 2019
+The confirmed diagnosis of COVID-19 was defined as a positive result by using real-time reverse-transcriptase polymerase-chain-reaction (RT-PCR) detection for routine nasal and pharyngeal swab specimens
+Isolation of cases and contact tracing has been implemented for COVID-19
+Although both diseases can have similar GGO and septal thickening, rounded morphology, peripheral distribution and fibrous lesion were relatively specific in COVID-19
+COVID-19 is a beta-coronavirus, presenting as viral pneumonia with high infectiousness through respiratory droplets or direct contact and appears to have greater infectivity and a lower-case fatality rate when compared to severe acute respiratory syndrome (SARS) and Middle Eastern respiratory syndrome(MERS)
+Usually, COVID-19 has an incubation period of 2-7 days 2 with no obvious 41 symptoms, during which time the virus can spread from infected to uninfected individuals
+The 2019 novel coronavirus (2019-nCoV, also called severe acute respiratory syndrome (SARS)-CoV-2) has caused the current outbreak of coronavirus disease (COVID-19), which has emerged as a serious public health concern
+The transmission characteristics of COVID-19 appear to be similar to those of pandemic influenza and will likely facilitate further global spread

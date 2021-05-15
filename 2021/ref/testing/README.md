@@ -1,3 +1,3 @@
 # Testing data
 
-This folder will contain the testing data with reference annotations once the competition is finished.
+This folder contains the testing data with reference annotations. Three separate sources are given: medline (Spanish), wikinews (Spanish), and CORD (English).
